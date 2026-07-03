@@ -1,0 +1,1382 @@
+{
+  "video_title": "Your Brain Treats Your Phone Like a Savanna (Why You Can't Stop)",
+  "video_description": "Every time you pick up your phone, your dopamine system fires the same signal it fired when your ancestors found food in the forest. You scroll not because you are satisfied, but because your ancient brain is convinced that the next swipe will finally bring the resource that allows it to stop.\n\nThis video explores the evolutionary mismatch of digital foraging — why your inability to stop scrolling is actually an ancient seeking pathway that evolved to motivate search behavior in a resource-scarce world that no longer exists.\n\n━━━━━━━━━━━━━━━━━━━━━\nWATCH NEXT\n━━━━━━━━━━━━━━━━━━━━━\nWhy Modern People Are So Lonely: [Link Pending]\nYour Anxiety Is Not a Disorder: [Link Pending]\n\n━━━━━━━━━━━━━━━━━━━━━\nSOURCES\n━━━━━━━━━━━━━━━━━━━━━\n1. Hofmann, W., Vohs, K. D., & Baumeister, R. F. (2012). What people desire, feel conflict about, and try to resist in everyday life. Psychological Science, 23(6), 582-588. DOI: 10.1177/0956797612437426\n2. Ward, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain drain: The mere presence of one’s own smartphone reduces available cognitive capacity. Journal of the Association for Consumer Research, 2(2), 140-154. DOI: 10.1086/691462\n3. Wu, M., Childs, E., & de Wit, H. (2016). Intermittent reinforcement and dopamine striatal release in humans. Neuropsychopharmacology, 41(3), 880-888. DOI: 10.1038/npp.2015.213\n\n#evolutionarymismatch #ancienthumans #humanevolution #anthropology #psychology #phoneaddiction",
+  "cta_comment": "If you put a wild animal in a cage with unlimited food and flashing lights, it will eat itself to death. We have done the exact same thing to ourselves. How many hours did your screen time report show this week? Let's talk in the comments below.",
+  "thumbnail_prompt": "A split-screen visual. Left side: Warm sepia tones showing a prehistoric hunter-gatherer silhouette holding a spear in a wild savanna. Right side: Cool neon blue and purple tones showing a modern silhouette slumped over a glowing desk screen. Centered bottom text overlays bold white text reading: 'THE TRAP' with a yellow accent word: 'ANCIENT SOFTWARE'. High contrast, center focused, no realistic human faces, simple graphic design look.",
+  "timeline": [
+    {
+      "start_time": "00:00",
+      "end_time": "00:02",
+      "narration": "Right now, somewhere in the neural",
+      "image_prompt": "A simple stick figure holding a glowing black rectangle (phone) with waves radiating from it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:02",
+      "end_time": "00:04",
+      "narration": "circuitry of your prefrontal cortex, a",
+      "image_prompt": "A stick figure with a giant pink circle inside its head showing a brain with wobbly lines., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:04",
+      "end_time": "00:07",
+      "narration": "quiet conflict is playing out. You",
+      "image_prompt": "A simple stick figure holding a glowing black rectangle (phone) with waves radiating from it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:07",
+      "end_time": "00:09",
+      "narration": "feel a subtle, repeating urge to",
+      "image_prompt": "A simple stick figure holding a glowing black rectangle (phone) with waves radiating from it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:09",
+      "end_time": "00:12",
+      "narration": "reach into your pocket, to unlock",
+      "image_prompt": "A stick figure reaching its hand into its pants pocket., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:12",
+      "end_time": "00:14",
+      "narration": "your screen, or to refresh a",
+      "image_prompt": "A simple close up of a hand made of thin lines touching a black phone screen, a curved arrow pointing up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:14",
+      "end_time": "00:16",
+      "narration": "feed. You likely call it a",
+      "image_prompt": "A stick figure holding a fork and eating a stream of tiny letter characters coming out of a phone., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:16",
+      "end_time": "00:19",
+      "narration": "lack of discipline. You may call",
+      "image_prompt": "A stick figure trying to pull its own hand away from a phone using a rope., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:19",
+      "end_time": "00:21",
+      "narration": "it a short attention span. But",
+      "image_prompt": "A stick figure with a small dotted line showing a very short path to a question mark., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:21",
+      "end_time": "00:24",
+      "narration": "scientists call it something very different.",
+      "image_prompt": "A stick figure wearing a lab coat and holding a beaker, with a big question mark., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:24",
+      "end_time": "00:26",
+      "narration": "That urge is the modern echo",
+      "image_prompt": "A stick figure speaking with multiple light grey waves radiating from its mouth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:26",
+      "end_time": "00:28",
+      "narration": "of a three-hundred-thousand-year-old biological survival system",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:28",
+      "end_time": "00:31",
+      "narration": "that has been stripped of its",
+      "image_prompt": "A simple stick figure holding a glowing black rectangle (phone) with waves radiating from it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:31",
+      "end_time": "00:33",
+      "narration": "natural environment. This narration is not",
+      "image_prompt": "A simple tree with green leaves and a round brown trunk under a yellow circle sun., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:33",
+      "end_time": "00:35",
+      "narration": "about self-improvement, nor is it a",
+      "image_prompt": "A simple stick figure holding a glowing black rectangle (phone) with waves radiating from it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:35",
+      "end_time": "00:38",
+      "narration": "guide to digital detoxing. It is",
+      "image_prompt": "A stick figure crossing its arms and saying 'NO' to a glowing rectangle., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:38",
+      "end_time": "00:40",
+      "narration": "an investigation into the evolutionary mismatch",
+      "image_prompt": "A stick figure wearing caveman animal skins standing in front of a giant laptop., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:40",
+      "end_time": "00:43",
+      "narration": "that has turned your smartphone into",
+      "image_prompt": "A simple stick figure holding a glowing black rectangle (phone) with waves radiating from it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:43",
+      "end_time": "00:45",
+      "narration": "a biological weapon. And once you",
+      "image_prompt": "A stick figure standing next to a giant hand-drawn bomb with a phone screen on it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:45",
+      "end_time": "00:47",
+      "narration": "understand the ancient neurobiology of this",
+      "image_prompt": "A simple stick figure holding a glowing black rectangle (phone) with waves radiating from it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:47",
+      "end_time": "00:50",
+      "narration": "trap, the way you live with",
+      "image_prompt": "A simple hand-drawn bear trap with a phone placed in the middle., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:50",
+      "end_time": "00:51",
+      "narration": "your screen changes completely.",
+      "image_prompt": "A simple close up of a hand made of thin lines touching a black phone screen, a curved arrow pointing up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:51",
+      "end_time": "00:54",
+      "narration": "To understand the relentless pull of",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:54",
+      "end_time": "00:56",
+      "narration": "the screen, we must first examine",
+      "image_prompt": "A simple close up of a hand made of thin lines touching a black phone screen, a curved arrow pointing up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:56",
+      "end_time": "00:59",
+      "narration": "the core tenet of evolutionary mismatch",
+      "image_prompt": "A stick figure wearing caveman animal skins standing in front of a giant laptop., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "00:59",
+      "end_time": "01:01",
+      "narration": "theory. This scientific framework posits that",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:01",
+      "end_time": "01:03",
+      "narration": "many of the psychological and physical",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:03",
+      "end_time": "01:06",
+      "narration": "afflictions of modern life arise because",
+      "image_prompt": "A stick figure with a sad wavy mouth and teardrops coming from its dot eyes., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:06",
+      "end_time": "01:08",
+      "narration": "our species evolved in one environment,",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:08",
+      "end_time": "01:11",
+      "narration": "yet now inhabits a radically different",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:11",
+      "end_time": "01:13",
+      "narration": "one. For ninety-nine percent of human",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:13",
+      "end_time": "01:16",
+      "narration": "evolutionary history, our ancestors lived in",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:16",
+      "end_time": "01:18",
+      "narration": "small, nomadic bands of hunter-gatherers. Their",
+      "image_prompt": "Three simple stick figures standing in a line holding hands under a blue sky., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:18",
+      "end_time": "01:20",
+      "narration": "survival depended on solving immediate, high-stakes",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:20",
+      "end_time": "01:23",
+      "narration": "physical challenges in a world of",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:23",
+      "end_time": "01:25",
+      "narration": "extreme resource scarcity. Natural selection designed",
+      "image_prompt": "A stick figure with an empty bowl and a sad face, ribs drawn as simple horizontal lines., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:25",
+      "end_time": "01:28",
+      "narration": "our brains to navigate that ancient",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:28",
+      "end_time": "01:30",
+      "narration": "world. The primary neural network responsible",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:30",
+      "end_time": "01:32",
+      "narration": "for motivating this survival effort is",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:32",
+      "end_time": "01:35",
+      "narration": "the pathway stretching from the ventral",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:35",
+      "end_time": "01:37",
+      "narration": "tegmental area, or VTA, to the",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:37",
+      "end_time": "01:40",
+      "narration": "nucleus accumbens. This circuit, commonly known",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:40",
+      "end_time": "01:42",
+      "narration": "as the dopamine reward pathway, did",
+      "image_prompt": "A stick figure with a huge smiley face and yellow stars radiating from its head., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:42",
+      "end_time": "01:44",
+      "narration": "not evolve to make us feel",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:44",
+      "end_time": "01:47",
+      "narration": "happy or content. Instead, neurobiologists now",
+      "image_prompt": "A stick figure pointing a stick at a blackboard that has simple drawings of molecules on it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:47",
+      "end_time": "01:49",
+      "narration": "recognize dopamine as a neurotransmitter of",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:49",
+      "end_time": "01:52",
+      "narration": "anticipation, a seeking mechanism designed to",
+      "image_prompt": "A stick figure looking through binoculars with a huge smile on its face., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:52",
+      "end_time": "01:54",
+      "narration": "motivate the search for resources. To",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:54",
+      "end_time": "01:56",
+      "narration": "understand the power of this pathway",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:56",
+      "end_time": "01:59",
+      "narration": "in the modern world, we can",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "01:59",
+      "end_time": "02:01",
+      "narration": "look to a landmark study published",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:01",
+      "end_time": "02:04",
+      "narration": "by Hofmann and colleagues in 2012.",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:04",
+      "end_time": "02:06",
+      "narration": "Using experience sampling, the researchers tracked",
+      "image_prompt": "A stick figure writing on a clipboard with a giant magnifying glass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:06",
+      "end_time": "02:08",
+      "narration": "the daily desires of hundreds of",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:08",
+      "end_time": "02:11",
+      "narration": "individuals in real-world settings. They discovered",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:11",
+      "end_time": "02:13",
+      "narration": "that the urge to engage with",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:13",
+      "end_time": "02:16",
+      "narration": "digital media and smartphones was statistically",
+      "image_prompt": "A pile of black rectangles with blue screens and a stick figure looking overwhelmed., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:16",
+      "end_time": "02:18",
+      "narration": "stronger and more difficult to resist",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:18",
+      "end_time": "02:20",
+      "narration": "than the desire for basic physiological",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:20",
+      "end_time": "02:23",
+      "narration": "needs, including food, sleep, and physical",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:23",
+      "end_time": "02:25",
+      "narration": "rest. The study demonstrated a startling",
+      "image_prompt": "A stick figure sleeping on a simple hammock tied between two green trees., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:25",
+      "end_time": "02:28",
+      "narration": "reality: our ancient brain cannot distinguish",
+      "image_prompt": "A stick figure standing at a fork in the road, pointing left to a berry and right to a phone., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:28",
+      "end_time": "02:30",
+      "narration": "between the pursuit of survival resources",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:30",
+      "end_time": "02:32",
+      "narration": "and the pursuit of digital stimuli,",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:32",
+      "end_time": "02:35",
+      "narration": "and the latter has become neurologically",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:35",
+      "end_time": "02:36",
+      "narration": "harder to resist.",
+      "image_prompt": "A stick figure pointing a stick at a large blackboard with simple graphs and science equations., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:36",
+      "end_time": "02:38",
+      "narration": "To comprehend why this pathway operates",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:38",
+      "end_time": "02:41",
+      "narration": "with such force, we must step",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:41",
+      "end_time": "02:43",
+      "narration": "back three hundred thousand years onto",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:43",
+      "end_time": "02:46",
+      "narration": "the Pleistocene savanna. Imagine a small",
+      "image_prompt": "A wide landscape with a simple drawing of a yellow sun, blue sky, and a single acacia tree., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:46",
+      "end_time": "02:48",
+      "narration": "group of early humans navigating an",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:48",
+      "end_time": "02:50",
+      "narration": "unpredictable landscape where resources were sparse",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:50",
+      "end_time": "02:53",
+      "narration": "and widely dispersed. In this environment,",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:53",
+      "end_time": "02:55",
+      "narration": "finding calories or critical social information",
+      "image_prompt": "A stick figure holding a giant red apple that is larger than its head., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:55",
+      "end_time": "02:58",
+      "narration": "was a matter of life and",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "02:58",
+      "end_time": "03:00",
+      "narration": "death. If an ancestor stumbled upon",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:00",
+      "end_time": "03:02",
+      "narration": "a wild berry bush, their survival",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:02",
+      "end_time": "03:05",
+      "narration": "depended on their willingness to thoroughly",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:05",
+      "end_time": "03:07",
+      "narration": "harvest it. The brain facilitated this",
+      "image_prompt": "A stick figure holding a basket and putting red berry dots into it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:07",
+      "end_time": "03:10",
+      "narration": "through the VTA-nucleus accumbens pathway. As",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:10",
+      "end_time": "03:12",
+      "narration": "the ancestor searched through the branches,",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:12",
+      "end_time": "03:14",
+      "narration": "the expectation of finding a sweet,",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:14",
+      "end_time": "03:17",
+      "narration": "energy-rich berry triggered a steady release",
+      "image_prompt": "A simple green cloud shape (bush) with red dots (berries) scattered on it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:17",
+      "end_time": "03:19",
+      "narration": "of dopamine. This was not a",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:19",
+      "end_time": "03:22",
+      "narration": "reward for finding the fruit; it",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:22",
+      "end_time": "03:24",
+      "narration": "was a neurochemical engine motivating them",
+      "image_prompt": "A stick figure with a cartoon engine drawn on its chest, smoke coming out., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:24",
+      "end_time": "03:26",
+      "narration": "to search under the next leaf,",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:26",
+      "end_time": "03:29",
+      "narration": "to walk over the next ridge,",
+      "image_prompt": "A stick figure walking up a simple black line representing a mountain ridge., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:29",
+      "end_time": "03:31",
+      "narration": "and to push through physical exhaustion.",
+      "image_prompt": "A stick figure lying flat on the ground with its head down and tongue sticking out., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:31",
+      "end_time": "03:34",
+      "narration": "The dopamine drive was a locator",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:34",
+      "end_time": "03:36",
+      "narration": "system. It functioned as an internal",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:36",
+      "end_time": "03:38",
+      "narration": "compass that kept the organism moving",
+      "image_prompt": "A simple compass with a red needle pointing to a red berry., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:38",
+      "end_time": "03:41",
+      "narration": "toward survival goals. Crucially, this ancient",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:41",
+      "end_time": "03:43",
+      "narration": "system was self-limiting. Once the berries",
+      "image_prompt": "A stick figure sitting down next to a pile of berries, holding its stomach with a happy face., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:43",
+      "end_time": "03:46",
+      "narration": "were gathered, the stomach was full,",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:46",
+      "end_time": "03:48",
+      "narration": "and the threat of starvation receded,",
+      "image_prompt": "A stick figure looking thin with simple lines representing bones., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:48",
+      "end_time": "03:50",
+      "narration": "the dopamine signal subsided. The brain",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:50",
+      "end_time": "03:53",
+      "narration": "returned to a baseline state of",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:53",
+      "end_time": "03:55",
+      "narration": "rest, conserving valuable energy for the",
+      "image_prompt": "A stick figure sleeping on a simple hammock tied between two green trees., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:55",
+      "end_time": "03:58",
+      "narration": "next genuine survival task. The hunt",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "03:58",
+      "end_time": "04:00",
+      "narration": "had a clear beginning, a clear",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:00",
+      "end_time": "04:02",
+      "narration": "middle, and a clear end.",
+      "image_prompt": "A stick figure walking in a simple prehistoric savanna landscape with a sun and grass., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:02",
+      "end_time": "04:04",
+      "narration": "But when this ancient locator system",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:04",
+      "end_time": "04:07",
+      "narration": "is placed into the twenty-first century,",
+      "image_prompt": "A skyline of simple black rectangle buildings with square windows under a gray sky., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:07",
+      "end_time": "04:09",
+      "narration": "the environment no longer limits the",
+      "image_prompt": "A stick figure standing behind a red fence with a phone on the other side., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:09",
+      "end_time": "04:12",
+      "narration": "loop. This is the jump to",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:12",
+      "end_time": "04:14",
+      "narration": "the modern era, where our prehistoric",
+      "image_prompt": "A stick figure running in a simple green grass field with a spear in hand., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:14",
+      "end_time": "04:16",
+      "narration": "survival mechanisms have met their ultimate,",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:16",
+      "end_time": "04:19",
+      "narration": "artificial counterpart. The smartphone in your",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:19",
+      "end_time": "04:21",
+      "narration": "hand is not merely a communication",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:21",
+      "end_time": "04:24",
+      "narration": "device; it is a digital savanna",
+      "image_prompt": "A wide landscape with a simple drawing of a yellow sun, blue sky, and a single acacia tree., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:24",
+      "end_time": "04:26",
+      "narration": "of infinite, synthetic resources. Every time",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:26",
+      "end_time": "04:28",
+      "narration": "you open an app and swipe",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:28",
+      "end_time": "04:31",
+      "narration": "down to refresh the page, you",
+      "image_prompt": "A black rectangle representing a screen with a curved arrow forming a circle to show refresh., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:31",
+      "end_time": "04:33",
+      "narration": "are replicating the exact physical and",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:33",
+      "end_time": "04:36",
+      "narration": "cognitive actions of an ancestor parting",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:36",
+      "end_time": "04:38",
+      "narration": "leaves in search of food. Technology",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:38",
+      "end_time": "04:40",
+      "narration": "companies did not design these interfaces",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:40",
+      "end_time": "04:43",
+      "narration": "by accident. They structured them to",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:43",
+      "end_time": "04:45",
+      "narration": "exploit our evolutionary bias for variable",
+      "image_prompt": "A giant cartoon hand with dollar signs on it holding a puppet strings attached to a stick figure., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:45",
+      "end_time": "04:48",
+      "narration": "rewards. In the ancestral world, berries",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:48",
+      "end_time": "04:50",
+      "narration": "were not found on every bush,",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:50",
+      "end_time": "04:52",
+      "narration": "and game was not present in",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:52",
+      "end_time": "04:55",
+      "narration": "every valley. This unpredictability is what",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:55",
+      "end_time": "04:57",
+      "narration": "kept the ancient brain searching. Social",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "04:57",
+      "end_time": "05:00",
+      "narration": "media platforms have digitized this intermittent",
+      "image_prompt": "A slot machine made of a simple box with a lever, showing a question mark., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:00",
+      "end_time": "05:02",
+      "narration": "reinforcement. When you refresh a feed,",
+      "image_prompt": "A black rectangle representing a screen with a curved arrow forming a circle to show refresh., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:02",
+      "end_time": "05:04",
+      "narration": "you do not find a valuable",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:04",
+      "end_time": "05:07",
+      "narration": "resource every time. You see a",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:07",
+      "end_time": "05:09",
+      "narration": "dry advertisement, then a mundane post,",
+      "image_prompt": "A screen showing a giant yellow star with the word 'BUY' written inside in crude letters., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:09",
+      "end_time": "05:11",
+      "narration": "and then a piece of shocking",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:11",
+      "end_time": "05:14",
+      "narration": "news or a direct message. This",
+      "image_prompt": "A stick figure looking at a phone screen with a small envelope icon flashing next to it., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:14",
+      "end_time": "05:16",
+      "narration": "unpredictability keeps the VTA-nucleus accumbens pathway",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:16",
+      "end_time": "05:19",
+      "narration": "locked in a state of constant",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:19",
+      "end_time": "05:21",
+      "narration": "activation. The ancient search mechanism has",
+      "image_prompt": "A stick figure plugged into a wall outlet, sparks flying out of its head., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:21",
+      "end_time": "05:23",
+      "narration": "found a landscape with no physical",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:23",
+      "end_time": "05:26",
+      "narration": "boundary, and because the feed never",
+      "image_prompt": "A stick figure hitting its head against a solid black wall under a red stop sign., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:26",
+      "end_time": "05:28",
+      "narration": "runs out of content, the brain",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:28",
+      "end_time": "05:31",
+      "narration": "never receives the biological signal that",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:31",
+      "end_time": "05:32",
+      "narration": "tells it to stop.",
+      "image_prompt": "A stick figure scrolling down on a giant black phone screen with message bubbles popping up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:32",
+      "end_time": "05:35",
+      "narration": "This permanent activation of our seeking",
+      "image_prompt": "A stick figure plugged into a wall outlet, sparks flying out of its head., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:35",
+      "end_time": "05:37",
+      "narration": "circuitry has a dark, systemic implication",
+      "image_prompt": "A stick figure with glowing red and yellow circuits drawn on its body., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:37",
+      "end_time": "05:39",
+      "narration": "for human cognitive function. We operate",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:39",
+      "end_time": "05:42",
+      "narration": "under the cultural assumption that we",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:42",
+      "end_time": "05:44",
+      "narration": "can control our relationship with technology",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:44",
+      "end_time": "05:47",
+      "narration": "simply by exercising willpower or setting",
+      "image_prompt": "A stick figure trying to push a giant boulder up a hill, sweat drops flying., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:47",
+      "end_time": "05:49",
+      "narration": "limits. However, the cognitive cost of",
+      "image_prompt": "A stick figure standing behind a red fence with a phone on the other side., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:49",
+      "end_time": "05:51",
+      "narration": "these devices is paid even when",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:51",
+      "end_time": "05:54",
+      "narration": "we are not actively using them.",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:54",
+      "end_time": "05:56",
+      "narration": "In 2017, a study by Ward",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:56",
+      "end_time": "05:59",
+      "narration": "and colleagues investigated the effects of",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "05:59",
+      "end_time": "06:01",
+      "narration": "smartphone presence on cognitive capacity. They",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:01",
+      "end_time": "06:03",
+      "narration": "asked participants to complete high-concentration tasks",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:03",
+      "end_time": "06:06",
+      "narration": "while their phones were either on",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:06",
+      "end_time": "06:08",
+      "narration": "the desk face down, in their",
+      "image_prompt": "A stick figure sitting at a desk with a phone next to it, a dotted line showing energy draining from its head., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:08",
+      "end_time": "06:11",
+      "narration": "pocket or bag, or in a",
+      "image_prompt": "A stick figure reaching its hand into its pants pocket., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:11",
+      "end_time": "06:13",
+      "narration": "separate room. The findings revealed a",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:13",
+      "end_time": "06:15",
+      "narration": "direct, linear relationship between the physical",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:15",
+      "end_time": "06:18",
+      "narration": "proximity of the phone and a",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:18",
+      "end_time": "06:20",
+      "narration": "reduction in cognitive capacity—a phenomenon the",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:20",
+      "end_time": "06:23",
+      "narration": "researchers termed \"brain drain.\" Even when",
+      "image_prompt": "A stick figure's head drawn as a sink with a water faucet running, and a phone sitting in the sink drain., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:23",
+      "end_time": "06:25",
+      "narration": "the phone was turned off and",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:25",
+      "end_time": "06:27",
+      "narration": "the participant was not thinking about",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:27",
+      "end_time": "06:30",
+      "narration": "it, the mere presence of the",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:30",
+      "end_time": "06:32",
+      "narration": "device occupied a portion of their",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:32",
+      "end_time": "06:35",
+      "narration": "working memory. Because the phone represents",
+      "image_prompt": "A stick figure trying to hold five giant balls labeled 'A', 'B', 'C', 'D', 'E' at the same time., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:35",
+      "end_time": "06:37",
+      "narration": "a portal to infinite social validation,",
+      "image_prompt": "A simple dark portal drawing with purple lines swirling around a stick figure., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:37",
+      "end_time": "06:39",
+      "narration": "status updates, and threat monitoring—all of",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:39",
+      "end_time": "06:42",
+      "narration": "which were critical for survival in",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:42",
+      "end_time": "06:44",
+      "narration": "the tribe—the brain must dedicate active,",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:44",
+      "end_time": "06:47",
+      "narration": "unconscious energy to ignoring it. We",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:47",
+      "end_time": "06:49",
+      "narration": "believe we are focusing on our",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:49",
+      "end_time": "06:51",
+      "narration": "work or resting, but a portion",
+      "image_prompt": "A stick figure sleeping on a simple hammock tied between two green trees., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:51",
+      "end_time": "06:54",
+      "narration": "of our ancient mind is constantly",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:54",
+      "end_time": "06:56",
+      "narration": "braced, keeping watch over a silent",
+      "image_prompt": "A stick figure standing in a defensive shield pose under a blue umbrella., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:56",
+      "end_time": "06:59",
+      "narration": "piece of plastic because it treats",
+      "image_prompt": "A stick figure sitting at a computer desk with its hands on its head, looking exhausted., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "06:59",
+      "end_time": "07:01",
+      "narration": "it as a high-stakes survival resource.",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:01",
+      "end_time": "07:03",
+      "narration": "The neurochemical evidence for this evolutionary",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:03",
+      "end_time": "07:06",
+      "narration": "hijacking is found in how modern",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:06",
+      "end_time": "07:08",
+      "narration": "algorithms manage our attention through intermittent",
+      "image_prompt": "A slot machine made of a simple box with a lever, showing a question mark., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:08",
+      "end_time": "07:11",
+      "narration": "reinforcement. In 2016, Wu and colleagues",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:11",
+      "end_time": "07:13",
+      "narration": "studied the relationship between intermittent reinforcement",
+      "image_prompt": "A slot machine made of a simple box with a lever, showing a question mark., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:13",
+      "end_time": "07:15",
+      "narration": "schedules and dopamine release in the",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:15",
+      "end_time": "07:18",
+      "narration": "human striatum. Their work confirmed that",
+      "image_prompt": "A simple diagram of a human head with a pathway highlighted in bright yellow from the base to the front., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:18",
+      "end_time": "07:20",
+      "narration": "unpredictable reward schedules trigger significantly higher",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:20",
+      "end_time": "07:23",
+      "narration": "and more persistent levels of dopamine",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:23",
+      "end_time": "07:25",
+      "narration": "release than predictable schedules. The tech",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:25",
+      "end_time": "07:27",
+      "narration": "industry has operationalized this neurobiological vulnerability",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:27",
+      "end_time": "07:30",
+      "narration": "down to the millisecond. Consider the",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:30",
+      "end_time": "07:32",
+      "narration": "brief, artificial delay when you pull",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:32",
+      "end_time": "07:35",
+      "narration": "down to refresh a page. That",
+      "image_prompt": "A black rectangle representing a screen with a curved arrow forming a circle to show refresh., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:35",
+      "end_time": "07:37",
+      "narration": "lag is not a technical limitation;",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:37",
+      "end_time": "07:39",
+      "narration": "it is a deliberate design choice",
+      "image_prompt": "A stick figure sitting at a drawing board with a blueprint of a phone screen., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:39",
+      "end_time": "07:42",
+      "narration": "created to build anticipation, maximizing the",
+      "image_prompt": "A stick figure looking through binoculars with a huge smile on its face., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:42",
+      "end_time": "07:44",
+      "narration": "dopamine spike when the feed finally",
+      "image_prompt": "A stick figure holding a fork and eating a stream of tiny letter characters coming out of a phone., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:44",
+      "end_time": "07:47",
+      "narration": "populates. By feeding our ancient foraging",
+      "image_prompt": "A stick figure holding a fork and eating a stream of tiny letter characters coming out of a phone., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:47",
+      "end_time": "07:49",
+      "narration": "machinery a continuous stream of variable",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:49",
+      "end_time": "07:51",
+      "narration": "social rewards, these systems bypass our",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:51",
+      "end_time": "07:54",
+      "narration": "rational decision-making networks. We are not",
+      "image_prompt": "A stick figure standing at a crossroads with signs pointing to 'GOOD' and 'BAD'., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:54",
+      "end_time": "07:56",
+      "narration": "consciously choosing to spend hours scrolling;",
+      "image_prompt": "A stick figure thinking with a giant glowing lightbulb above its head., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:56",
+      "end_time": "07:59",
+      "narration": "we are being chemically guided by",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "07:59",
+      "end_time": "08:01",
+      "narration": "a system that interprets the digital",
+      "image_prompt": "A stick figure pointing at a whiteboard with a line chart showing a spike in the line., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:01",
+      "end_time": "08:03",
+      "narration": "environment as a life-or-death resource hunt.",
+      "image_prompt": "A stick figure running after a simple mammoth drawing with a spear., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:03",
+      "end_time": "08:06",
+      "narration": "This evolutionary perspective invites us to look",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:06",
+      "end_time": "08:09",
+      "narration": "at our digital exhaustion through a different",
+      "image_prompt": "A stick figure lying flat on the ground with its head down and tongue sticking out., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:09",
+      "end_time": "08:11",
+      "narration": "lens. When you find yourself scrolling",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:11",
+      "end_time": "08:14",
+      "narration": "late into the night, unable to",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:14",
+      "end_time": "08:16",
+      "narration": "put the device down, it is",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:16",
+      "end_time": "08:19",
+      "narration": "common to feel a sense of",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:19",
+      "end_time": "08:21",
+      "narration": "guilt, assuming you lack discipline. But",
+      "image_prompt": "A stick figure sitting on the floor with its head in its hands, looking sad., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:21",
+      "end_time": "08:23",
+      "narration": "the reality is far more clinical.",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:23",
+      "end_time": "08:26",
+      "narration": "You are not experiencing a moral",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:26",
+      "end_time": "08:28",
+      "narration": "failure; you are witnessing a three-hundred-thousand-year-old",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:28",
+      "end_time": "08:31",
+      "narration": "biological survival machine operating exactly as",
+      "image_prompt": "A stick figure escaping from a giant stick animal that looks like a mammoth., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:31",
+      "end_time": "08:33",
+      "narration": "it was designed to. Your ancestors",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:33",
+      "end_time": "08:35",
+      "narration": "survived because their brains would not",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:35",
+      "end_time": "08:38",
+      "narration": "let them stop searching until they",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:38",
+      "end_time": "08:40",
+      "narration": "found what they needed to stay",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:40",
+      "end_time": "08:43",
+      "narration": "alive. They searched, they found, and",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:43",
+      "end_time": "08:45",
+      "narration": "they rested. The tragedy of the",
+      "image_prompt": "A stick figure sleeping on a simple hammock tied between two green trees., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:45",
+      "end_time": "08:47",
+      "narration": "evolutionary mismatch is that on the",
+      "image_prompt": "A stick figure wearing caveman animal skins standing in front of a giant laptop., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:47",
+      "end_time": "08:50",
+      "narration": "digital savanna, you are searching for",
+      "image_prompt": "A wide landscape with a simple drawing of a yellow sun, blue sky, and a single acacia tree., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:50",
+      "end_time": "08:52",
+      "narration": "resources that do not exist in",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:52",
+      "end_time": "08:55",
+      "narration": "physical form. The screen offers endless",
+      "image_prompt": "A simple close up of a hand made of thin lines touching a black phone screen, a curved arrow pointing up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:55",
+      "end_time": "08:57",
+      "narration": "anticipation, but no final consumption. Your",
+      "image_prompt": "A stick figure looking through binoculars with a huge smile on its face., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:57",
+      "end_time": "08:59",
+      "narration": "ancestors stopped hunting when they found",
+      "image_prompt": "A stick figure running after a simple mammoth drawing with a spear., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "08:59",
+      "end_time": "09:02",
+      "narration": "what they were looking for. You",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "09:02",
+      "end_time": "09:04",
+      "narration": "will never find it on a",
+      "image_prompt": "A stick figure sitting on a green ground under a sky full of simple yellow star drawings., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    },
+    {
+      "start_time": "09:04",
+      "end_time": "09:07",
+      "narration": "screen. And that is the trap.",
+      "image_prompt": "A simple close up of a hand made of thin lines touching a black phone screen, a curved arrow pointing up., Style constraint: An extremely simple childish drawing made in MS Paint. Looks like an amateur drew it quickly by hand. White background, thick uneven black outlines, wobbly hand-drawn lines, simple stick figure human with round head and line body, simple dot eyes, flat colors only, no realistic shading, no 3D, no cinematic lighting, horizontal 16:9 frame format."
+    }
+  ]
+}

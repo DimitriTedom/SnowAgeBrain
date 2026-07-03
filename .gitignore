@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# WXT Build Outputs
+.output/
+.wxt/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+.DS_Store
+
+# OS generated files
+*.lnk
+
+# Large audio binaries
+*.m4a
