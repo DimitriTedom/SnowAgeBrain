@@ -1,0 +1,2117 @@
+{
+  "totalDuration": 516.53,
+  "sceneCount": 234,
+  "sceneMode": "srt",
+  "sceneDuration": null,
+  "pauseThreshold": null,
+  "detectedLanguage": "en",
+  "scriptProvided": true,
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.35,
+      "end": 2.19,
+      "duration": 1.84,
+      "text": "Right now, somewhere in the neural",
+      "wordCount": 6,
+      "timestampRange": "00:00.3 – 00:02.2"
+    },
+    {
+      "id": 2,
+      "start": 2.19,
+      "end": 4.63,
+      "duration": 2.44,
+      "text": "circuitry of your prefrontal cortex, a",
+      "wordCount": 6,
+      "timestampRange": "00:02.2 – 00:04.6"
+    },
+    {
+      "id": 3,
+      "start": 4.63,
+      "end": 6.91,
+      "duration": 2.28,
+      "text": "quiet conflict is playing out. You",
+      "wordCount": 6,
+      "timestampRange": "00:04.6 – 00:06.9"
+    },
+    {
+      "id": 4,
+      "start": 6.91,
+      "end": 9.17,
+      "duration": 2.26,
+      "text": "feel a subtle, repeating urge to",
+      "wordCount": 6,
+      "timestampRange": "00:06.9 – 00:09.2"
+    },
+    {
+      "id": 5,
+      "start": 9.17,
+      "end": 11.21,
+      "duration": 2.04,
+      "text": "reach into your pocket, to unlock",
+      "wordCount": 6,
+      "timestampRange": "00:09.2 – 00:11.2"
+    },
+    {
+      "id": 6,
+      "start": 11.21,
+      "end": 13.21,
+      "duration": 2.0,
+      "text": "your screen, or to refresh a",
+      "wordCount": 6,
+      "timestampRange": "00:11.2 – 00:13.2"
+    },
+    {
+      "id": 7,
+      "start": 13.21,
+      "end": 14.93,
+      "duration": 1.72,
+      "text": "feed. You likely call it a",
+      "wordCount": 6,
+      "timestampRange": "00:13.2 – 00:14.9"
+    },
+    {
+      "id": 8,
+      "start": 14.93,
+      "end": 16.75,
+      "duration": 1.82,
+      "text": "lack of discipline. You may call",
+      "wordCount": 6,
+      "timestampRange": "00:14.9 – 00:16.8"
+    },
+    {
+      "id": 9,
+      "start": 16.75,
+      "end": 18.65,
+      "duration": 1.9,
+      "text": "it a short attention span. But",
+      "wordCount": 6,
+      "timestampRange": "00:16.8 – 00:18.6"
+    },
+    {
+      "id": 10,
+      "start": 18.65,
+      "end": 20.41,
+      "duration": 1.76,
+      "text": "scientists call it something very different.",
+      "wordCount": 6,
+      "timestampRange": "00:18.6 – 00:20.4"
+    },
+    {
+      "id": 11,
+      "start": 20.83,
+      "end": 22.37,
+      "duration": 1.54,
+      "text": "That urge is the modern echo",
+      "wordCount": 6,
+      "timestampRange": "00:20.8 – 00:22.4"
+    },
+    {
+      "id": 12,
+      "start": 22.37,
+      "end": 24.09,
+      "duration": 1.72,
+      "text": "of a 300,000-year-old",
+      "wordCount": 3,
+      "timestampRange": "00:22.4 – 00:24.1"
+    },
+    {
+      "id": 13,
+      "start": 24.09,
+      "end": 26.35,
+      "duration": 2.26,
+      "text": "biological survival system that has been",
+      "wordCount": 6,
+      "timestampRange": "00:24.1 – 00:26.4"
+    },
+    {
+      "id": 14,
+      "start": 26.35,
+      "end": 28.79,
+      "duration": 2.44,
+      "text": "stripped of its natural environment. This",
+      "wordCount": 6,
+      "timestampRange": "00:26.4 – 00:28.8"
+    },
+    {
+      "id": 15,
+      "start": 28.79,
+      "end": 30.73,
+      "duration": 1.94,
+      "text": "narration is not about self-improvement,",
+      "wordCount": 5,
+      "timestampRange": "00:28.8 – 00:30.7"
+    },
+    {
+      "id": 16,
+      "start": 31.049,
+      "end": 32.25,
+      "duration": 1.201,
+      "text": "nor is it a guide to",
+      "wordCount": 6,
+      "timestampRange": "00:31.0 – 00:32.2"
+    },
+    {
+      "id": 17,
+      "start": 32.25,
+      "end": 34.59,
+      "duration": 2.34,
+      "text": "digital detoxing. It is an investigation",
+      "wordCount": 6,
+      "timestampRange": "00:32.2 – 00:34.6"
+    },
+    {
+      "id": 18,
+      "start": 34.59,
+      "end": 37.03,
+      "duration": 2.44,
+      "text": "into the evolutionary mismatch that has",
+      "wordCount": 6,
+      "timestampRange": "00:34.6 – 00:37.0"
+    },
+    {
+      "id": 19,
+      "start": 37.03,
+      "end": 39.19,
+      "duration": 2.16,
+      "text": "turned your smartphone into a biological",
+      "wordCount": 6,
+      "timestampRange": "00:37.0 – 00:39.2"
+    },
+    {
+      "id": 20,
+      "start": 39.19,
+      "end": 41.37,
+      "duration": 2.18,
+      "text": "weapon. And once you understand the",
+      "wordCount": 6,
+      "timestampRange": "00:39.2 – 00:41.4"
+    },
+    {
+      "id": 21,
+      "start": 41.37,
+      "end": 43.91,
+      "duration": 2.54,
+      "text": "ancient neurobiology of this trap, the",
+      "wordCount": 6,
+      "timestampRange": "00:41.4 – 00:43.9"
+    },
+    {
+      "id": 22,
+      "start": 43.91,
+      "end": 45.33,
+      "duration": 1.42,
+      "text": "way you live with your screen",
+      "wordCount": 6,
+      "timestampRange": "00:43.9 – 00:45.3"
+    },
+    {
+      "id": 23,
+      "start": 45.33,
+      "end": 48.17,
+      "duration": 2.84,
+      "text": "changes completely. To understand the relentless",
+      "wordCount": 6,
+      "timestampRange": "00:45.3 – 00:48.2"
+    },
+    {
+      "id": 24,
+      "start": 48.17,
+      "end": 50.03,
+      "duration": 1.86,
+      "text": "pull of the screen, we must",
+      "wordCount": 6,
+      "timestampRange": "00:48.2 – 00:50.0"
+    },
+    {
+      "id": 25,
+      "start": 50.03,
+      "end": 51.83,
+      "duration": 1.8,
+      "text": "first examine the core tenet of",
+      "wordCount": 6,
+      "timestampRange": "00:50.0 – 00:51.8"
+    },
+    {
+      "id": 26,
+      "start": 51.83,
+      "end": 54.53,
+      "duration": 2.7,
+      "text": "evolutionary mismatch theory. This scientific",
+      "wordCount": 5,
+      "timestampRange": "00:51.8 – 00:54.5"
+    },
+    {
+      "id": 27,
+      "start": 54.53,
+      "end": 56.25,
+      "duration": 1.72,
+      "text": "framework posits that many of the",
+      "wordCount": 6,
+      "timestampRange": "00:54.5 – 00:56.2"
+    },
+    {
+      "id": 28,
+      "start": 56.25,
+      "end": 58.35,
+      "duration": 2.1,
+      "text": "psychological and physical afflictions of modern",
+      "wordCount": 6,
+      "timestampRange": "00:56.2 – 00:58.4"
+    },
+    {
+      "id": 29,
+      "start": 58.35,
+      "end": 61.03,
+      "duration": 2.68,
+      "text": "life arise because our species evolved",
+      "wordCount": 6,
+      "timestampRange": "00:58.4 – 01:01.0"
+    },
+    {
+      "id": 30,
+      "start": 61.03,
+      "end": 63.59,
+      "duration": 2.56,
+      "text": "in one environment, yet now inhabits",
+      "wordCount": 6,
+      "timestampRange": "01:01.0 – 01:03.6"
+    },
+    {
+      "id": 31,
+      "start": 63.59,
+      "end": 66.01,
+      "duration": 2.42,
+      "text": "a radically different one. For 99",
+      "wordCount": 6,
+      "timestampRange": "01:03.6 – 01:06.0"
+    },
+    {
+      "id": 32,
+      "start": 66.01,
+      "end": 68.63,
+      "duration": 2.62,
+      "text": "% of human evolutionary history, our",
+      "wordCount": 6,
+      "timestampRange": "01:06.0 – 01:08.6"
+    },
+    {
+      "id": 33,
+      "start": 68.63,
+      "end": 71.53,
+      "duration": 2.9,
+      "text": "ancestors lived in small, nomadic bands",
+      "wordCount": 6,
+      "timestampRange": "01:08.6 – 01:11.5"
+    },
+    {
+      "id": 34,
+      "start": 71.53,
+      "end": 73.97,
+      "duration": 2.44,
+      "text": "of hunter-gatherers. Their survival depended",
+      "wordCount": 5,
+      "timestampRange": "01:11.5 – 01:14.0"
+    },
+    {
+      "id": 35,
+      "start": 73.97,
+      "end": 76.37,
+      "duration": 2.4,
+      "text": "on solving immediate, high-stakes physical",
+      "wordCount": 5,
+      "timestampRange": "01:14.0 – 01:16.4"
+    },
+    {
+      "id": 36,
+      "start": 76.37,
+      "end": 78.47,
+      "duration": 2.1,
+      "text": "challenges in a world of extreme",
+      "wordCount": 6,
+      "timestampRange": "01:16.4 – 01:18.5"
+    },
+    {
+      "id": 37,
+      "start": 78.47,
+      "end": 81.27,
+      "duration": 2.8,
+      "text": "resource scarcity. Natural selection designed",
+      "wordCount": 5,
+      "timestampRange": "01:18.5 – 01:21.3"
+    },
+    {
+      "id": 38,
+      "start": 81.27,
+      "end": 83.27,
+      "duration": 2.0,
+      "text": "our brains to navigate that ancient",
+      "wordCount": 6,
+      "timestampRange": "01:21.3 – 01:23.3"
+    },
+    {
+      "id": 39,
+      "start": 83.27,
+      "end": 86.07,
+      "duration": 2.8,
+      "text": "world. The primary neural network responsible",
+      "wordCount": 6,
+      "timestampRange": "01:23.3 – 01:26.1"
+    },
+    {
+      "id": 40,
+      "start": 86.07,
+      "end": 88.21,
+      "duration": 2.14,
+      "text": "for motivating this survival effort is",
+      "wordCount": 6,
+      "timestampRange": "01:26.1 – 01:28.2"
+    },
+    {
+      "id": 41,
+      "start": 88.21,
+      "end": 89.97,
+      "duration": 1.76,
+      "text": "the pathways stretching from the ventral",
+      "wordCount": 6,
+      "timestampRange": "01:28.2 – 01:30.0"
+    },
+    {
+      "id": 42,
+      "start": 89.97,
+      "end": 92.79,
+      "duration": 2.82,
+      "text": "tegmental area, or VTA, to the",
+      "wordCount": 6,
+      "timestampRange": "01:30.0 – 01:32.8"
+    },
+    {
+      "id": 43,
+      "start": 92.79,
+      "end": 95.73,
+      "duration": 2.94,
+      "text": "nucleus accumbens. This circuit, commonly",
+      "wordCount": 5,
+      "timestampRange": "01:32.8 – 01:35.7"
+    },
+    {
+      "id": 44,
+      "start": 95.73,
+      "end": 97.63,
+      "duration": 1.9,
+      "text": "known as the dopamine reward pathway,",
+      "wordCount": 6,
+      "timestampRange": "01:35.7 – 01:37.6"
+    },
+    {
+      "id": 45,
+      "start": 98.27,
+      "end": 99.43,
+      "duration": 1.16,
+      "text": "did not evolve to make us",
+      "wordCount": 6,
+      "timestampRange": "01:38.3 – 01:39.4"
+    },
+    {
+      "id": 46,
+      "start": 99.43,
+      "end": 102.71,
+      "duration": 3.28,
+      "text": "feel happy or content. Instead, neurobiologists",
+      "wordCount": 6,
+      "timestampRange": "01:39.4 – 01:42.7"
+    },
+    {
+      "id": 47,
+      "start": 102.71,
+      "end": 105.31,
+      "duration": 2.6,
+      "text": "now recognize dopamine as a neurotransmitter",
+      "wordCount": 6,
+      "timestampRange": "01:42.7 – 01:45.3"
+    },
+    {
+      "id": 48,
+      "start": 105.31,
+      "end": 108.05,
+      "duration": 2.74,
+      "text": "of anticipation, a seeking mechanism designed",
+      "wordCount": 6,
+      "timestampRange": "01:45.3 – 01:48.0"
+    },
+    {
+      "id": 49,
+      "start": 108.05,
+      "end": 110.71,
+      "duration": 2.66,
+      "text": "to motivate the resources. To",
+      "wordCount": 5,
+      "timestampRange": "01:48.0 – 01:50.7"
+    },
+    {
+      "id": 50,
+      "start": 110.71,
+      "end": 112.31,
+      "duration": 1.6,
+      "text": "understand the power of this pathway",
+      "wordCount": 6,
+      "timestampRange": "01:50.7 – 01:52.3"
+    },
+    {
+      "id": 51,
+      "start": 112.31,
+      "end": 114.23,
+      "duration": 1.92,
+      "text": "in the modern world, we can",
+      "wordCount": 6,
+      "timestampRange": "01:52.3 – 01:54.2"
+    },
+    {
+      "id": 52,
+      "start": 114.23,
+      "end": 115.81,
+      "duration": 1.58,
+      "text": "look to a landmark study published",
+      "wordCount": 6,
+      "timestampRange": "01:54.2 – 01:55.8"
+    },
+    {
+      "id": 53,
+      "start": 115.81,
+      "end": 118.47,
+      "duration": 2.66,
+      "text": "by Hoffman and colleagues in 2012.",
+      "wordCount": 6,
+      "timestampRange": "01:55.8 – 01:58.5"
+    },
+    {
+      "id": 54,
+      "start": 119.21,
+      "end": 121.79,
+      "duration": 2.58,
+      "text": "Using experience sampling, the researchers",
+      "wordCount": 5,
+      "timestampRange": "01:59.2 – 02:01.8"
+    },
+    {
+      "id": 55,
+      "start": 121.79,
+      "end": 123.55,
+      "duration": 1.76,
+      "text": "tracked the daily desires of hundreds",
+      "wordCount": 6,
+      "timestampRange": "02:01.8 – 02:03.5"
+    },
+    {
+      "id": 56,
+      "start": 123.55,
+      "end": 125.79,
+      "duration": 2.24,
+      "text": "of individuals in real-world settings.",
+      "wordCount": 5,
+      "timestampRange": "02:03.5 – 02:05.8"
+    },
+    {
+      "id": 57,
+      "start": 126.41,
+      "end": 127.729,
+      "duration": 1.319,
+      "text": "They discovered that the urge to",
+      "wordCount": 6,
+      "timestampRange": "02:06.4 – 02:07.7"
+    },
+    {
+      "id": 58,
+      "start": 127.729,
+      "end": 129.57,
+      "duration": 1.841,
+      "text": "engage with digital media and smartphones",
+      "wordCount": 6,
+      "timestampRange": "02:07.7 – 02:09.6"
+    },
+    {
+      "id": 59,
+      "start": 129.57,
+      "end": 131.95,
+      "duration": 2.38,
+      "text": "was statistically stronger and more difficult",
+      "wordCount": 6,
+      "timestampRange": "02:09.6 – 02:11.9"
+    },
+    {
+      "id": 60,
+      "start": 131.95,
+      "end": 133.31,
+      "duration": 1.36,
+      "text": "to resist than the desire for",
+      "wordCount": 6,
+      "timestampRange": "02:11.9 – 02:13.3"
+    },
+    {
+      "id": 61,
+      "start": 133.31,
+      "end": 136.53,
+      "duration": 3.22,
+      "text": "basic physiological needs, including food, sleep,",
+      "wordCount": 6,
+      "timestampRange": "02:13.3 – 02:16.5"
+    },
+    {
+      "id": 62,
+      "start": 136.69,
+      "end": 139.09,
+      "duration": 2.4,
+      "text": "and physical rest. The study demonstrated",
+      "wordCount": 6,
+      "timestampRange": "02:16.7 – 02:19.1"
+    },
+    {
+      "id": 63,
+      "start": 139.09,
+      "end": 141.71,
+      "duration": 2.62,
+      "text": "a startling reality. Our ancient brain",
+      "wordCount": 6,
+      "timestampRange": "02:19.1 – 02:21.7"
+    },
+    {
+      "id": 64,
+      "start": 141.71,
+      "end": 143.37,
+      "duration": 1.66,
+      "text": "cannot distinguish between the pursuit of",
+      "wordCount": 6,
+      "timestampRange": "02:21.7 – 02:23.4"
+    },
+    {
+      "id": 65,
+      "start": 143.37,
+      "end": 145.63,
+      "duration": 2.26,
+      "text": "survival resources and the pursuit of",
+      "wordCount": 6,
+      "timestampRange": "02:23.4 – 02:25.6"
+    },
+    {
+      "id": 66,
+      "start": 145.63,
+      "end": 147.77,
+      "duration": 2.14,
+      "text": "digital stimuli, and the latter has",
+      "wordCount": 6,
+      "timestampRange": "02:25.6 – 02:27.8"
+    },
+    {
+      "id": 67,
+      "start": 147.77,
+      "end": 150.43,
+      "duration": 2.66,
+      "text": "become neurologically harder to resist. To",
+      "wordCount": 6,
+      "timestampRange": "02:27.8 – 02:30.4"
+    },
+    {
+      "id": 68,
+      "start": 150.43,
+      "end": 152.65,
+      "duration": 2.22,
+      "text": "comprehend why this pathway operates with",
+      "wordCount": 6,
+      "timestampRange": "02:30.4 – 02:32.7"
+    },
+    {
+      "id": 69,
+      "start": 152.65,
+      "end": 154.69,
+      "duration": 2.04,
+      "text": "such force, we must step back",
+      "wordCount": 6,
+      "timestampRange": "02:32.7 – 02:34.7"
+    },
+    {
+      "id": 70,
+      "start": 154.69,
+      "end": 157.45,
+      "duration": 2.76,
+      "text": "300,000 years onto Pleistocene savanna.",
+      "wordCount": 5,
+      "timestampRange": "02:34.7 – 02:37.4"
+    },
+    {
+      "id": 71,
+      "start": 157.95,
+      "end": 159.59,
+      "duration": 1.64,
+      "text": "Imagine a small group of early",
+      "wordCount": 6,
+      "timestampRange": "02:37.9 – 02:39.6"
+    },
+    {
+      "id": 72,
+      "start": 159.59,
+      "end": 162.53,
+      "duration": 2.94,
+      "text": "humans navigating an unpredictable landscape where",
+      "wordCount": 6,
+      "timestampRange": "02:39.6 – 02:42.5"
+    },
+    {
+      "id": 73,
+      "start": 162.53,
+      "end": 165.43,
+      "duration": 2.9,
+      "text": "resources were sparse and widely dispersed.",
+      "wordCount": 6,
+      "timestampRange": "02:42.5 – 02:45.4"
+    },
+    {
+      "id": 74,
+      "start": 165.89,
+      "end": 168.67,
+      "duration": 2.78,
+      "text": "In this environment, finding calories or",
+      "wordCount": 6,
+      "timestampRange": "02:45.9 – 02:48.7"
+    },
+    {
+      "id": 75,
+      "start": 168.67,
+      "end": 171.09,
+      "duration": 2.42,
+      "text": "critical social information was a matter",
+      "wordCount": 6,
+      "timestampRange": "02:48.7 – 02:51.1"
+    },
+    {
+      "id": 76,
+      "start": 171.09,
+      "end": 172.89,
+      "duration": 1.8,
+      "text": "of life and death. If an",
+      "wordCount": 6,
+      "timestampRange": "02:51.1 – 02:52.9"
+    },
+    {
+      "id": 77,
+      "start": 172.89,
+      "end": 174.73,
+      "duration": 1.84,
+      "text": "ancestor stumbled upon a wild berry",
+      "wordCount": 6,
+      "timestampRange": "02:52.9 – 02:54.7"
+    },
+    {
+      "id": 78,
+      "start": 174.73,
+      "end": 177.09,
+      "duration": 2.36,
+      "text": "bush, their survival depended on their",
+      "wordCount": 6,
+      "timestampRange": "02:54.7 – 02:57.1"
+    },
+    {
+      "id": 79,
+      "start": 177.09,
+      "end": 179.29,
+      "duration": 2.2,
+      "text": "willingness to thoroughly harvest it. The",
+      "wordCount": 6,
+      "timestampRange": "02:57.1 – 02:59.3"
+    },
+    {
+      "id": 80,
+      "start": 179.29,
+      "end": 181.53,
+      "duration": 2.24,
+      "text": "brain facilitated this through the VTA",
+      "wordCount": 6,
+      "timestampRange": "02:59.3 – 03:01.5"
+    },
+    {
+      "id": 81,
+      "start": 181.53,
+      "end": 184.17,
+      "duration": 2.64,
+      "text": "nucleus accumbens pathway. As the",
+      "wordCount": 5,
+      "timestampRange": "03:01.5 – 03:04.2"
+    },
+    {
+      "id": 82,
+      "start": 184.17,
+      "end": 186.31,
+      "duration": 2.14,
+      "text": "ancestors searched through the branches, the",
+      "wordCount": 6,
+      "timestampRange": "03:04.2 – 03:06.3"
+    },
+    {
+      "id": 83,
+      "start": 186.31,
+      "end": 188.95,
+      "duration": 2.64,
+      "text": "expectation of finding a sweet, energy",
+      "wordCount": 6,
+      "timestampRange": "03:06.3 – 03:08.9"
+    },
+    {
+      "id": 84,
+      "start": 188.95,
+      "end": 190.71,
+      "duration": 1.76,
+      "text": "-rich berry triggered a steady release",
+      "wordCount": 6,
+      "timestampRange": "03:08.9 – 03:10.7"
+    },
+    {
+      "id": 85,
+      "start": 190.71,
+      "end": 192.41,
+      "duration": 1.7,
+      "text": "of dopamine. This was not a",
+      "wordCount": 6,
+      "timestampRange": "03:10.7 – 03:12.4"
+    },
+    {
+      "id": 86,
+      "start": 192.41,
+      "end": 194.43,
+      "duration": 2.02,
+      "text": "reward for finding the fruit. It",
+      "wordCount": 6,
+      "timestampRange": "03:12.4 – 03:14.4"
+    },
+    {
+      "id": 87,
+      "start": 194.43,
+      "end": 196.49,
+      "duration": 2.06,
+      "text": "was a neurochemical engine motivating them",
+      "wordCount": 6,
+      "timestampRange": "03:14.4 – 03:16.5"
+    },
+    {
+      "id": 88,
+      "start": 196.49,
+      "end": 197.85,
+      "duration": 1.36,
+      "text": "to search under the next leaf,",
+      "wordCount": 6,
+      "timestampRange": "03:16.5 – 03:17.8"
+    },
+    {
+      "id": 89,
+      "start": 198.33,
+      "end": 199.75,
+      "duration": 1.42,
+      "text": "to walk over the next ridge,",
+      "wordCount": 6,
+      "timestampRange": "03:18.3 – 03:19.8"
+    },
+    {
+      "id": 90,
+      "start": 200.13,
+      "end": 201.81,
+      "duration": 1.68,
+      "text": "and to push through physical exhaustion.",
+      "wordCount": 6,
+      "timestampRange": "03:20.1 – 03:21.8"
+    },
+    {
+      "id": 91,
+      "start": 202.31,
+      "end": 204.59,
+      "duration": 2.28,
+      "text": "The dopamine drive was a locator",
+      "wordCount": 6,
+      "timestampRange": "03:22.3 – 03:24.6"
+    },
+    {
+      "id": 92,
+      "start": 204.59,
+      "end": 206.71,
+      "duration": 2.12,
+      "text": "system. It functioned as an internal",
+      "wordCount": 6,
+      "timestampRange": "03:24.6 – 03:26.7"
+    },
+    {
+      "id": 93,
+      "start": 206.71,
+      "end": 208.59,
+      "duration": 1.88,
+      "text": "compass that kept the organism moving",
+      "wordCount": 6,
+      "timestampRange": "03:26.7 – 03:28.6"
+    },
+    {
+      "id": 94,
+      "start": 208.59,
+      "end": 211.57,
+      "duration": 2.98,
+      "text": "toward survival goals. Crucially, this",
+      "wordCount": 5,
+      "timestampRange": "03:28.6 – 03:31.6"
+    },
+    {
+      "id": 95,
+      "start": 211.57,
+      "end": 213.85,
+      "duration": 2.28,
+      "text": "ancient system was self-limiting. Once",
+      "wordCount": 5,
+      "timestampRange": "03:31.6 – 03:33.8"
+    },
+    {
+      "id": 96,
+      "start": 213.85,
+      "end": 215.87,
+      "duration": 2.02,
+      "text": "the berries were gathered, the stomach",
+      "wordCount": 6,
+      "timestampRange": "03:33.8 – 03:35.9"
+    },
+    {
+      "id": 97,
+      "start": 215.87,
+      "end": 217.25,
+      "duration": 1.38,
+      "text": "was full, and the threat of",
+      "wordCount": 6,
+      "timestampRange": "03:35.9 – 03:37.2"
+    },
+    {
+      "id": 98,
+      "start": 217.25,
+      "end": 219.99,
+      "duration": 2.74,
+      "text": "starvation receded, the dopamine signal",
+      "wordCount": 5,
+      "timestampRange": "03:37.2 – 03:40.0"
+    },
+    {
+      "id": 99,
+      "start": 219.99,
+      "end": 222.33,
+      "duration": 2.34,
+      "text": "subsided. The brain returned to a",
+      "wordCount": 6,
+      "timestampRange": "03:40.0 – 03:42.3"
+    },
+    {
+      "id": 100,
+      "start": 222.33,
+      "end": 225.17,
+      "duration": 2.84,
+      "text": "baseline state of rest, conserving valuable",
+      "wordCount": 6,
+      "timestampRange": "03:42.3 – 03:45.2"
+    },
+    {
+      "id": 101,
+      "start": 225.17,
+      "end": 227.03,
+      "duration": 1.86,
+      "text": "energy for the next genuine survival",
+      "wordCount": 6,
+      "timestampRange": "03:45.2 – 03:47.0"
+    },
+    {
+      "id": 102,
+      "start": 227.03,
+      "end": 228.87,
+      "duration": 1.84,
+      "text": "task. The hunt had a clear",
+      "wordCount": 6,
+      "timestampRange": "03:47.0 – 03:48.9"
+    },
+    {
+      "id": 103,
+      "start": 228.87,
+      "end": 230.75,
+      "duration": 1.88,
+      "text": "beginning, a clear middle, and a",
+      "wordCount": 6,
+      "timestampRange": "03:48.9 – 03:50.8"
+    },
+    {
+      "id": 104,
+      "start": 230.75,
+      "end": 232.99,
+      "duration": 2.24,
+      "text": "clear end. But when this ancient",
+      "wordCount": 6,
+      "timestampRange": "03:50.8 – 03:53.0"
+    },
+    {
+      "id": 105,
+      "start": 232.99,
+      "end": 234.63,
+      "duration": 1.64,
+      "text": "locator system is placed into the",
+      "wordCount": 6,
+      "timestampRange": "03:53.0 – 03:54.6"
+    },
+    {
+      "id": 106,
+      "start": 234.63,
+      "end": 237.55,
+      "duration": 2.92,
+      "text": "21st century, the environment no longer",
+      "wordCount": 6,
+      "timestampRange": "03:54.6 – 03:57.6"
+    },
+    {
+      "id": 107,
+      "start": 237.55,
+      "end": 239.15,
+      "duration": 1.6,
+      "text": "limits the loop. This is a",
+      "wordCount": 6,
+      "timestampRange": "03:57.6 – 03:59.2"
+    },
+    {
+      "id": 108,
+      "start": 239.15,
+      "end": 241.01,
+      "duration": 1.86,
+      "text": "jump to the modern era, where",
+      "wordCount": 6,
+      "timestampRange": "03:59.2 – 04:01.0"
+    },
+    {
+      "id": 109,
+      "start": 241.01,
+      "end": 243.21,
+      "duration": 2.2,
+      "text": "our prehistoric survival mechanisms have met",
+      "wordCount": 6,
+      "timestampRange": "04:01.0 – 04:03.2"
+    },
+    {
+      "id": 110,
+      "start": 243.21,
+      "end": 246.01,
+      "duration": 2.8,
+      "text": "their ultimate artificial counterpart. The",
+      "wordCount": 5,
+      "timestampRange": "04:03.2 – 04:06.0"
+    },
+    {
+      "id": 111,
+      "start": 246.01,
+      "end": 247.83,
+      "duration": 1.82,
+      "text": "smartphone in your hand is not",
+      "wordCount": 6,
+      "timestampRange": "04:06.0 – 04:07.8"
+    },
+    {
+      "id": 112,
+      "start": 247.83,
+      "end": 250.13,
+      "duration": 2.3,
+      "text": "merely a communication device. It is",
+      "wordCount": 6,
+      "timestampRange": "04:07.8 – 04:10.1"
+    },
+    {
+      "id": 113,
+      "start": 250.13,
+      "end": 252.83,
+      "duration": 2.7,
+      "text": "a digital savanna of infinite, synthetic",
+      "wordCount": 6,
+      "timestampRange": "04:10.1 – 04:12.8"
+    },
+    {
+      "id": 114,
+      "start": 252.83,
+      "end": 255.07,
+      "duration": 2.24,
+      "text": "resources. Every time you open an",
+      "wordCount": 6,
+      "timestampRange": "04:12.8 – 04:15.1"
+    },
+    {
+      "id": 115,
+      "start": 255.07,
+      "end": 256.589,
+      "duration": 1.519,
+      "text": "app and swipe down to refresh",
+      "wordCount": 6,
+      "timestampRange": "04:15.1 – 04:16.6"
+    },
+    {
+      "id": 116,
+      "start": 256.589,
+      "end": 258.709,
+      "duration": 2.12,
+      "text": "the page, you are replicating the",
+      "wordCount": 6,
+      "timestampRange": "04:16.6 – 04:18.7"
+    },
+    {
+      "id": 117,
+      "start": 258.709,
+      "end": 261.07,
+      "duration": 2.361,
+      "text": "exact physical and cognitive actions of",
+      "wordCount": 6,
+      "timestampRange": "04:18.7 – 04:21.1"
+    },
+    {
+      "id": 118,
+      "start": 261.07,
+      "end": 263.01,
+      "duration": 1.94,
+      "text": "an ancestor parting leaves in search",
+      "wordCount": 6,
+      "timestampRange": "04:21.1 – 04:23.0"
+    },
+    {
+      "id": 119,
+      "start": 263.01,
+      "end": 265.61,
+      "duration": 2.6,
+      "text": "of food. Technology companies did not",
+      "wordCount": 6,
+      "timestampRange": "04:23.0 – 04:25.6"
+    },
+    {
+      "id": 120,
+      "start": 265.61,
+      "end": 268.19,
+      "duration": 2.58,
+      "text": "design these interfaces by accident. They",
+      "wordCount": 6,
+      "timestampRange": "04:25.6 – 04:28.2"
+    },
+    {
+      "id": 121,
+      "start": 268.19,
+      "end": 270.33,
+      "duration": 2.14,
+      "text": "structured them to exploit our evolutionary",
+      "wordCount": 6,
+      "timestampRange": "04:28.2 – 04:30.3"
+    },
+    {
+      "id": 122,
+      "start": 270.33,
+      "end": 273.13,
+      "duration": 2.8,
+      "text": "bias for variable rewards. In the",
+      "wordCount": 6,
+      "timestampRange": "04:30.3 – 04:33.1"
+    },
+    {
+      "id": 123,
+      "start": 273.13,
+      "end": 275.41,
+      "duration": 2.28,
+      "text": "ancestral world, berries were not found",
+      "wordCount": 6,
+      "timestampRange": "04:33.1 – 04:35.4"
+    },
+    {
+      "id": 124,
+      "start": 275.41,
+      "end": 277.39,
+      "duration": 1.98,
+      "text": "on every bush, and game was",
+      "wordCount": 6,
+      "timestampRange": "04:35.4 – 04:37.4"
+    },
+    {
+      "id": 125,
+      "start": 277.39,
+      "end": 279.57,
+      "duration": 2.18,
+      "text": "not present in every valley. This",
+      "wordCount": 6,
+      "timestampRange": "04:37.4 – 04:39.6"
+    },
+    {
+      "id": 126,
+      "start": 279.57,
+      "end": 282.03,
+      "duration": 2.46,
+      "text": "unpredictability is what kept the ancient",
+      "wordCount": 6,
+      "timestampRange": "04:39.6 – 04:42.0"
+    },
+    {
+      "id": 127,
+      "start": 282.03,
+      "end": 285.03,
+      "duration": 3.0,
+      "text": "brain searching. Social media platforms have",
+      "wordCount": 6,
+      "timestampRange": "04:42.0 – 04:45.0"
+    },
+    {
+      "id": 128,
+      "start": 285.03,
+      "end": 288.03,
+      "duration": 3.0,
+      "text": "digitized this intermittent reinforcement. When you",
+      "wordCount": 6,
+      "timestampRange": "04:45.0 – 04:48.0"
+    },
+    {
+      "id": 129,
+      "start": 288.03,
+      "end": 290.05,
+      "duration": 2.02,
+      "text": "refresh a feed, you do not",
+      "wordCount": 6,
+      "timestampRange": "04:48.0 – 04:50.1"
+    },
+    {
+      "id": 130,
+      "start": 290.05,
+      "end": 292.11,
+      "duration": 2.06,
+      "text": "find a valuable resource every time.",
+      "wordCount": 6,
+      "timestampRange": "04:50.1 – 04:52.1"
+    },
+    {
+      "id": 131,
+      "start": 292.53,
+      "end": 294.31,
+      "duration": 1.78,
+      "text": "You see a dry advertisement, then",
+      "wordCount": 6,
+      "timestampRange": "04:52.5 – 04:54.3"
+    },
+    {
+      "id": 132,
+      "start": 294.31,
+      "end": 295.97,
+      "duration": 1.66,
+      "text": "a mundane post, and then a",
+      "wordCount": 6,
+      "timestampRange": "04:54.3 – 04:56.0"
+    },
+    {
+      "id": 133,
+      "start": 295.97,
+      "end": 297.41,
+      "duration": 1.44,
+      "text": "piece of shocking news or a",
+      "wordCount": 6,
+      "timestampRange": "04:56.0 – 04:57.4"
+    },
+    {
+      "id": 134,
+      "start": 297.41,
+      "end": 300.35,
+      "duration": 2.94,
+      "text": "direct message. This unpredictability keeps the",
+      "wordCount": 6,
+      "timestampRange": "04:57.4 – 05:00.4"
+    },
+    {
+      "id": 135,
+      "start": 300.35,
+      "end": 303.25,
+      "duration": 2.9,
+      "text": "vedeonucleus accumbens pathway locked in a",
+      "wordCount": 6,
+      "timestampRange": "05:00.4 – 05:03.2"
+    },
+    {
+      "id": 136,
+      "start": 303.25,
+      "end": 305.61,
+      "duration": 2.36,
+      "text": "state of constant activation. The ancient",
+      "wordCount": 6,
+      "timestampRange": "05:03.2 – 05:05.6"
+    },
+    {
+      "id": 137,
+      "start": 305.61,
+      "end": 307.33,
+      "duration": 1.72,
+      "text": "search mechanism has found a landscape",
+      "wordCount": 6,
+      "timestampRange": "05:05.6 – 05:07.3"
+    },
+    {
+      "id": 138,
+      "start": 307.33,
+      "end": 309.55,
+      "duration": 2.22,
+      "text": "with no physical boundary, and because",
+      "wordCount": 6,
+      "timestampRange": "05:07.3 – 05:09.6"
+    },
+    {
+      "id": 139,
+      "start": 309.55,
+      "end": 310.73,
+      "duration": 1.18,
+      "text": "the feed never runs out of",
+      "wordCount": 6,
+      "timestampRange": "05:09.6 – 05:10.7"
+    },
+    {
+      "id": 140,
+      "start": 310.73,
+      "end": 313.03,
+      "duration": 2.3,
+      "text": "content, the brain never receives a",
+      "wordCount": 6,
+      "timestampRange": "05:10.7 – 05:13.0"
+    },
+    {
+      "id": 141,
+      "start": 313.03,
+      "end": 315.07,
+      "duration": 2.04,
+      "text": "biological signal that tells it to",
+      "wordCount": 6,
+      "timestampRange": "05:13.0 – 05:15.1"
+    },
+    {
+      "id": 142,
+      "start": 315.07,
+      "end": 317.41,
+      "duration": 2.34,
+      "text": "stop. This permanent activation of our",
+      "wordCount": 6,
+      "timestampRange": "05:15.1 – 05:17.4"
+    },
+    {
+      "id": 143,
+      "start": 317.41,
+      "end": 320.11,
+      "duration": 2.7,
+      "text": "seeking circuitry has a dark, systemic",
+      "wordCount": 6,
+      "timestampRange": "05:17.4 – 05:20.1"
+    },
+    {
+      "id": 144,
+      "start": 320.11,
+      "end": 322.89,
+      "duration": 2.78,
+      "text": "implication for human cognitive function. We",
+      "wordCount": 6,
+      "timestampRange": "05:20.1 – 05:22.9"
+    },
+    {
+      "id": 145,
+      "start": 322.89,
+      "end": 324.79,
+      "duration": 1.9,
+      "text": "operate under the cultural assumption that",
+      "wordCount": 6,
+      "timestampRange": "05:22.9 – 05:24.8"
+    },
+    {
+      "id": 146,
+      "start": 324.79,
+      "end": 326.41,
+      "duration": 1.62,
+      "text": "we can control our relationship with",
+      "wordCount": 6,
+      "timestampRange": "05:24.8 – 05:26.4"
+    },
+    {
+      "id": 147,
+      "start": 326.41,
+      "end": 328.97,
+      "duration": 2.56,
+      "text": "technology simply by exercising",
+      "wordCount": 4,
+      "timestampRange": "05:26.4 – 05:29.0"
+    },
+    {
+      "id": 148,
+      "start": 328.97,
+      "end": 331.73,
+      "duration": 2.76,
+      "text": "willpower or setting limits. However,",
+      "wordCount": 5,
+      "timestampRange": "05:29.0 – 05:31.7"
+    },
+    {
+      "id": 149,
+      "start": 332.11,
+      "end": 334.05,
+      "duration": 1.94,
+      "text": "the cognitive cost of these devices",
+      "wordCount": 6,
+      "timestampRange": "05:32.1 – 05:34.1"
+    },
+    {
+      "id": 150,
+      "start": 334.05,
+      "end": 335.99,
+      "duration": 1.94,
+      "text": "is paid even when we are",
+      "wordCount": 6,
+      "timestampRange": "05:34.1 – 05:36.0"
+    },
+    {
+      "id": 151,
+      "start": 335.99,
+      "end": 338.77,
+      "duration": 2.78,
+      "text": "not actively using them. In 2017,",
+      "wordCount": 6,
+      "timestampRange": "05:36.0 – 05:38.8"
+    },
+    {
+      "id": 152,
+      "start": 339.49,
+      "end": 341.13,
+      "duration": 1.64,
+      "text": "a study by Ward and colleagues",
+      "wordCount": 6,
+      "timestampRange": "05:39.5 – 05:41.1"
+    },
+    {
+      "id": 153,
+      "start": 341.13,
+      "end": 343.29,
+      "duration": 2.16,
+      "text": "investigated the effects of smartphone presence",
+      "wordCount": 6,
+      "timestampRange": "05:41.1 – 05:43.3"
+    },
+    {
+      "id": 154,
+      "start": 343.29,
+      "end": 346.03,
+      "duration": 2.74,
+      "text": "on cognitive capacity. They asked participants",
+      "wordCount": 6,
+      "timestampRange": "05:43.3 – 05:46.0"
+    },
+    {
+      "id": 155,
+      "start": 346.03,
+      "end": 348.37,
+      "duration": 2.34,
+      "text": "to complete high-concentration tasks while",
+      "wordCount": 5,
+      "timestampRange": "05:46.0 – 05:48.4"
+    },
+    {
+      "id": 156,
+      "start": 348.37,
+      "end": 349.53,
+      "duration": 1.16,
+      "text": "their phones were either on the",
+      "wordCount": 6,
+      "timestampRange": "05:48.4 – 05:49.5"
+    },
+    {
+      "id": 157,
+      "start": 349.53,
+      "end": 351.27,
+      "duration": 1.74,
+      "text": "desk face down, in their pocket",
+      "wordCount": 6,
+      "timestampRange": "05:49.5 – 05:51.3"
+    },
+    {
+      "id": 158,
+      "start": 351.27,
+      "end": 353.23,
+      "duration": 1.96,
+      "text": "or bag, or in a separate",
+      "wordCount": 6,
+      "timestampRange": "05:51.3 – 05:53.2"
+    },
+    {
+      "id": 159,
+      "start": 353.23,
+      "end": 355.41,
+      "duration": 2.18,
+      "text": "room. The findings revealed a direct,",
+      "wordCount": 6,
+      "timestampRange": "05:53.2 – 05:55.4"
+    },
+    {
+      "id": 160,
+      "start": 355.79,
+      "end": 357.89,
+      "duration": 2.1,
+      "text": "linear relationship between the physical proximity",
+      "wordCount": 6,
+      "timestampRange": "05:55.8 – 05:57.9"
+    },
+    {
+      "id": 161,
+      "start": 357.89,
+      "end": 359.51,
+      "duration": 1.62,
+      "text": "of the phone and a reduction",
+      "wordCount": 6,
+      "timestampRange": "05:57.9 – 05:59.5"
+    },
+    {
+      "id": 162,
+      "start": 359.51,
+      "end": 362.17,
+      "duration": 2.66,
+      "text": "in cognitive capacity, a phenomenon the",
+      "wordCount": 6,
+      "timestampRange": "05:59.5 – 06:02.2"
+    },
+    {
+      "id": 163,
+      "start": 362.17,
+      "end": 364.93,
+      "duration": 2.76,
+      "text": "researchers termed brain drain. Even when",
+      "wordCount": 6,
+      "timestampRange": "06:02.2 – 06:04.9"
+    },
+    {
+      "id": 164,
+      "start": 364.93,
+      "end": 366.23,
+      "duration": 1.3,
+      "text": "the phone was turned off and",
+      "wordCount": 6,
+      "timestampRange": "06:04.9 – 06:06.2"
+    },
+    {
+      "id": 165,
+      "start": 366.23,
+      "end": 367.51,
+      "duration": 1.28,
+      "text": "the participant was not thinking about",
+      "wordCount": 6,
+      "timestampRange": "06:06.2 – 06:07.5"
+    },
+    {
+      "id": 166,
+      "start": 367.51,
+      "end": 369.23,
+      "duration": 1.72,
+      "text": "it, the mere presence of the",
+      "wordCount": 6,
+      "timestampRange": "06:07.5 – 06:09.2"
+    },
+    {
+      "id": 167,
+      "start": 369.23,
+      "end": 371.31,
+      "duration": 2.08,
+      "text": "device occupied a portion of their",
+      "wordCount": 6,
+      "timestampRange": "06:09.2 – 06:11.3"
+    },
+    {
+      "id": 168,
+      "start": 371.31,
+      "end": 373.61,
+      "duration": 2.3,
+      "text": "working memory. Because the phone represented",
+      "wordCount": 6,
+      "timestampRange": "06:11.3 – 06:13.6"
+    },
+    {
+      "id": 169,
+      "start": 373.61,
+      "end": 375.45,
+      "duration": 1.84,
+      "text": "a portal to infinite social validation,",
+      "wordCount": 6,
+      "timestampRange": "06:13.6 – 06:15.4"
+    },
+    {
+      "id": 170,
+      "start": 375.89,
+      "end": 378.43,
+      "duration": 2.54,
+      "text": "status updates, and threat monitoring, all",
+      "wordCount": 6,
+      "timestampRange": "06:15.9 – 06:18.4"
+    },
+    {
+      "id": 171,
+      "start": 378.43,
+      "end": 379.71,
+      "duration": 1.28,
+      "text": "of which were critical for survival",
+      "wordCount": 6,
+      "timestampRange": "06:18.4 – 06:19.7"
+    },
+    {
+      "id": 172,
+      "start": 379.71,
+      "end": 381.63,
+      "duration": 1.92,
+      "text": "in the tribe, the brain must",
+      "wordCount": 6,
+      "timestampRange": "06:19.7 – 06:21.6"
+    },
+    {
+      "id": 173,
+      "start": 381.63,
+      "end": 384.29,
+      "duration": 2.66,
+      "text": "dedicate active, unconscious energy to ignoring",
+      "wordCount": 6,
+      "timestampRange": "06:21.6 – 06:24.3"
+    },
+    {
+      "id": 174,
+      "start": 384.29,
+      "end": 385.87,
+      "duration": 1.58,
+      "text": "it. We believe we are focusing",
+      "wordCount": 6,
+      "timestampRange": "06:24.3 – 06:25.9"
+    },
+    {
+      "id": 175,
+      "start": 385.87,
+      "end": 387.59,
+      "duration": 1.72,
+      "text": "on our work or resting. But",
+      "wordCount": 6,
+      "timestampRange": "06:25.9 – 06:27.6"
+    },
+    {
+      "id": 176,
+      "start": 387.59,
+      "end": 389.05,
+      "duration": 1.46,
+      "text": "a portion of our ancient mind",
+      "wordCount": 6,
+      "timestampRange": "06:27.6 – 06:29.1"
+    },
+    {
+      "id": 177,
+      "start": 389.05,
+      "end": 391.59,
+      "duration": 2.54,
+      "text": "is constantly braced, keeping watch over",
+      "wordCount": 6,
+      "timestampRange": "06:29.1 – 06:31.6"
+    },
+    {
+      "id": 178,
+      "start": 391.59,
+      "end": 393.53,
+      "duration": 1.94,
+      "text": "a silent piece of plastic because",
+      "wordCount": 6,
+      "timestampRange": "06:31.6 – 06:33.5"
+    },
+    {
+      "id": 179,
+      "start": 393.53,
+      "end": 394.71,
+      "duration": 1.18,
+      "text": "it treats it as a high",
+      "wordCount": 6,
+      "timestampRange": "06:33.5 – 06:34.7"
+    },
+    {
+      "id": 180,
+      "start": 394.71,
+      "end": 397.33,
+      "duration": 2.62,
+      "text": "-stakes survival resource. The neurochemical",
+      "wordCount": 5,
+      "timestampRange": "06:34.7 – 06:37.3"
+    },
+    {
+      "id": 181,
+      "start": 397.33,
+      "end": 399.97,
+      "duration": 2.64,
+      "text": "evidence for this evolutionary hijacking is",
+      "wordCount": 6,
+      "timestampRange": "06:37.3 – 06:40.0"
+    },
+    {
+      "id": 182,
+      "start": 399.97,
+      "end": 402.27,
+      "duration": 2.3,
+      "text": "found in how modern algorithms manage",
+      "wordCount": 6,
+      "timestampRange": "06:40.0 – 06:42.3"
+    },
+    {
+      "id": 183,
+      "start": 402.27,
+      "end": 405.25,
+      "duration": 2.98,
+      "text": "our attention through intermittent reinforcement. In",
+      "wordCount": 6,
+      "timestampRange": "06:42.3 – 06:45.2"
+    },
+    {
+      "id": 184,
+      "start": 405.25,
+      "end": 407.55,
+      "duration": 2.3,
+      "text": "2016, Wu and colleagues studied the",
+      "wordCount": 6,
+      "timestampRange": "06:45.2 – 06:47.6"
+    },
+    {
+      "id": 185,
+      "start": 407.55,
+      "end": 410.51,
+      "duration": 2.96,
+      "text": "relationship between intermittent reinforcement schedules and",
+      "wordCount": 6,
+      "timestampRange": "06:47.6 – 06:50.5"
+    },
+    {
+      "id": 186,
+      "start": 410.51,
+      "end": 412.81,
+      "duration": 2.3,
+      "text": "dopamine release in the human striatum.",
+      "wordCount": 6,
+      "timestampRange": "06:50.5 – 06:52.8"
+    },
+    {
+      "id": 187,
+      "start": 412.81,
+      "end": 415.61,
+      "duration": 2.8,
+      "text": "Their work confirmed that unpredictable reward",
+      "wordCount": 6,
+      "timestampRange": "06:52.8 – 06:55.6"
+    },
+    {
+      "id": 188,
+      "start": 415.61,
+      "end": 418.55,
+      "duration": 2.94,
+      "text": "schedules trigger significantly higher and",
+      "wordCount": 5,
+      "timestampRange": "06:55.6 – 06:58.6"
+    },
+    {
+      "id": 189,
+      "start": 418.55,
+      "end": 421.15,
+      "duration": 2.6,
+      "text": "more persistent levels of dopamine release",
+      "wordCount": 6,
+      "timestampRange": "06:58.6 – 07:01.1"
+    },
+    {
+      "id": 190,
+      "start": 421.15,
+      "end": 423.95,
+      "duration": 2.8,
+      "text": "than predictable schedules. The tech industry",
+      "wordCount": 6,
+      "timestampRange": "07:01.1 – 07:03.9"
+    },
+    {
+      "id": 191,
+      "start": 423.95,
+      "end": 426.93,
+      "duration": 2.98,
+      "text": "has operationalized this neurobiological vulnerability",
+      "wordCount": 5,
+      "timestampRange": "07:03.9 – 07:06.9"
+    },
+    {
+      "id": 192,
+      "start": 426.93,
+      "end": 429.91,
+      "duration": 2.98,
+      "text": "down to the millisecond. Consider the",
+      "wordCount": 6,
+      "timestampRange": "07:06.9 – 07:09.9"
+    },
+    {
+      "id": 193,
+      "start": 429.91,
+      "end": 432.19,
+      "duration": 2.28,
+      "text": "brief, artificial delay when you pull",
+      "wordCount": 6,
+      "timestampRange": "07:09.9 – 07:12.2"
+    },
+    {
+      "id": 194,
+      "start": 432.19,
+      "end": 434.25,
+      "duration": 2.06,
+      "text": "down to refresh a page. That",
+      "wordCount": 6,
+      "timestampRange": "07:12.2 – 07:14.2"
+    },
+    {
+      "id": 195,
+      "start": 434.25,
+      "end": 435.79,
+      "duration": 1.54,
+      "text": "lag is not a technical limitation.",
+      "wordCount": 6,
+      "timestampRange": "07:14.2 – 07:15.8"
+    },
+    {
+      "id": 196,
+      "start": 436.43,
+      "end": 437.99,
+      "duration": 1.56,
+      "text": "It is a deliberate design choice",
+      "wordCount": 6,
+      "timestampRange": "07:16.4 – 07:18.0"
+    },
+    {
+      "id": 197,
+      "start": 437.99,
+      "end": 440.71,
+      "duration": 2.72,
+      "text": "created to build anticipation, maximizing the",
+      "wordCount": 6,
+      "timestampRange": "07:18.0 – 07:20.7"
+    },
+    {
+      "id": 198,
+      "start": 440.71,
+      "end": 442.93,
+      "duration": 2.22,
+      "text": "dopamine spike when the feed finally",
+      "wordCount": 6,
+      "timestampRange": "07:20.7 – 07:22.9"
+    },
+    {
+      "id": 199,
+      "start": 442.93,
+      "end": 445.73,
+      "duration": 2.8,
+      "text": "populates. By feeding our ancient foraging",
+      "wordCount": 6,
+      "timestampRange": "07:22.9 – 07:25.7"
+    },
+    {
+      "id": 200,
+      "start": 445.73,
+      "end": 448.21,
+      "duration": 2.48,
+      "text": "machinery a continuous stream of variable",
+      "wordCount": 6,
+      "timestampRange": "07:25.7 – 07:28.2"
+    },
+    {
+      "id": 201,
+      "start": 448.21,
+      "end": 450.91,
+      "duration": 2.7,
+      "text": "social rewards, these systems bypass",
+      "wordCount": 5,
+      "timestampRange": "07:28.2 – 07:30.9"
+    },
+    {
+      "id": 202,
+      "start": 450.91,
+      "end": 453.73,
+      "duration": 2.82,
+      "text": "our rational decision-making networks. We",
+      "wordCount": 5,
+      "timestampRange": "07:30.9 – 07:33.7"
+    },
+    {
+      "id": 203,
+      "start": 453.73,
+      "end": 455.47,
+      "duration": 1.74,
+      "text": "are not consciously choosing to spend",
+      "wordCount": 6,
+      "timestampRange": "07:33.7 – 07:35.5"
+    },
+    {
+      "id": 204,
+      "start": 455.47,
+      "end": 458.03,
+      "duration": 2.56,
+      "text": "hours scrolling. We are being chemically",
+      "wordCount": 6,
+      "timestampRange": "07:35.5 – 07:38.0"
+    },
+    {
+      "id": 205,
+      "start": 458.03,
+      "end": 459.69,
+      "duration": 1.66,
+      "text": "guided by a system that interprets",
+      "wordCount": 6,
+      "timestampRange": "07:38.0 – 07:39.7"
+    },
+    {
+      "id": 206,
+      "start": 459.69,
+      "end": 461.35,
+      "duration": 1.66,
+      "text": "the digital environment as a life",
+      "wordCount": 6,
+      "timestampRange": "07:39.7 – 07:41.4"
+    },
+    {
+      "id": 207,
+      "start": 461.35,
+      "end": 463.81,
+      "duration": 2.46,
+      "text": "-or-death resource hunt. This evolutionary",
+      "wordCount": 5,
+      "timestampRange": "07:41.4 – 07:43.8"
+    },
+    {
+      "id": 208,
+      "start": 463.81,
+      "end": 466.09,
+      "duration": 2.28,
+      "text": "perspective invites us to look at",
+      "wordCount": 6,
+      "timestampRange": "07:43.8 – 07:46.1"
+    },
+    {
+      "id": 209,
+      "start": 466.09,
+      "end": 468.07,
+      "duration": 1.98,
+      "text": "our digital exhaustion through a different",
+      "wordCount": 6,
+      "timestampRange": "07:46.1 – 07:48.1"
+    },
+    {
+      "id": 210,
+      "start": 468.07,
+      "end": 470.39,
+      "duration": 2.32,
+      "text": "lens. When you find yourself scrolling",
+      "wordCount": 6,
+      "timestampRange": "07:48.1 – 07:50.4"
+    },
+    {
+      "id": 211,
+      "start": 470.39,
+      "end": 472.01,
+      "duration": 1.62,
+      "text": "late into the night, unable to",
+      "wordCount": 6,
+      "timestampRange": "07:50.4 – 07:52.0"
+    },
+    {
+      "id": 212,
+      "start": 472.01,
+      "end": 473.69,
+      "duration": 1.68,
+      "text": "put the device down, it is",
+      "wordCount": 6,
+      "timestampRange": "07:52.0 – 07:53.7"
+    },
+    {
+      "id": 213,
+      "start": 473.69,
+      "end": 474.81,
+      "duration": 1.12,
+      "text": "common to feel a sense of",
+      "wordCount": 6,
+      "timestampRange": "07:53.7 – 07:54.8"
+    },
+    {
+      "id": 214,
+      "start": 474.81,
+      "end": 477.55,
+      "duration": 2.74,
+      "text": "guilt, assuming you lack discipline. But",
+      "wordCount": 6,
+      "timestampRange": "07:54.8 – 07:57.6"
+    },
+    {
+      "id": 215,
+      "start": 477.55,
+      "end": 479.57,
+      "duration": 2.02,
+      "text": "the reality is far more clinical.",
+      "wordCount": 6,
+      "timestampRange": "07:57.6 – 07:59.6"
+    },
+    {
+      "id": 216,
+      "start": 480.09,
+      "end": 481.41,
+      "duration": 1.32,
+      "text": "You are not experiencing a moral",
+      "wordCount": 6,
+      "timestampRange": "08:00.1 – 08:01.4"
+    },
+    {
+      "id": 217,
+      "start": 481.41,
+      "end": 483.73,
+      "duration": 2.32,
+      "text": "failure. You are witnessing a 300",
+      "wordCount": 6,
+      "timestampRange": "08:01.4 – 08:03.7"
+    },
+    {
+      "id": 218,
+      "start": 483.73,
+      "end": 485.91,
+      "duration": 2.18,
+      "text": ",000-year-old biological survival machine",
+      "wordCount": 4,
+      "timestampRange": "08:03.7 – 08:05.9"
+    },
+    {
+      "id": 219,
+      "start": 485.91,
+      "end": 488.39,
+      "duration": 2.48,
+      "text": "operating exactly as it was designed",
+      "wordCount": 6,
+      "timestampRange": "08:05.9 – 08:08.4"
+    },
+    {
+      "id": 220,
+      "start": 488.39,
+      "end": 490.95,
+      "duration": 2.56,
+      "text": "to. Your ancestors survived because their",
+      "wordCount": 6,
+      "timestampRange": "08:08.4 – 08:10.9"
+    },
+    {
+      "id": 221,
+      "start": 490.95,
+      "end": 492.37,
+      "duration": 1.42,
+      "text": "brains would not let them stop",
+      "wordCount": 6,
+      "timestampRange": "08:10.9 – 08:12.4"
+    },
+    {
+      "id": 222,
+      "start": 492.37,
+      "end": 494.27,
+      "duration": 1.9,
+      "text": "searching until they found what they",
+      "wordCount": 6,
+      "timestampRange": "08:12.4 – 08:14.3"
+    },
+    {
+      "id": 223,
+      "start": 494.27,
+      "end": 496.27,
+      "duration": 2.0,
+      "text": "needed to stay alive. They searched,",
+      "wordCount": 6,
+      "timestampRange": "08:14.3 – 08:16.3"
+    },
+    {
+      "id": 224,
+      "start": 496.37,
+      "end": 498.13,
+      "duration": 1.76,
+      "text": "they found, and they rested. The",
+      "wordCount": 6,
+      "timestampRange": "08:16.4 – 08:18.1"
+    },
+    {
+      "id": 225,
+      "start": 498.13,
+      "end": 500.27,
+      "duration": 2.14,
+      "text": "tragedy of the evolutionary mismatch is",
+      "wordCount": 6,
+      "timestampRange": "08:18.1 – 08:20.3"
+    },
+    {
+      "id": 226,
+      "start": 500.27,
+      "end": 502.19,
+      "duration": 1.92,
+      "text": "that on the digital savannah, you",
+      "wordCount": 6,
+      "timestampRange": "08:20.3 – 08:22.2"
+    },
+    {
+      "id": 227,
+      "start": 502.19,
+      "end": 503.91,
+      "duration": 1.72,
+      "text": "are searching for resources that do",
+      "wordCount": 6,
+      "timestampRange": "08:22.2 – 08:23.9"
+    },
+    {
+      "id": 228,
+      "start": 503.91,
+      "end": 506.05,
+      "duration": 2.14,
+      "text": "not exist in physical form. The",
+      "wordCount": 6,
+      "timestampRange": "08:23.9 – 08:26.1"
+    },
+    {
+      "id": 229,
+      "start": 506.05,
+      "end": 508.51,
+      "duration": 2.46,
+      "text": "screen offers endless anticipation, but no",
+      "wordCount": 6,
+      "timestampRange": "08:26.1 – 08:28.5"
+    },
+    {
+      "id": 230,
+      "start": 508.51,
+      "end": 511.289,
+      "duration": 2.779,
+      "text": "final consumption. Your ancestors stopped hunting",
+      "wordCount": 6,
+      "timestampRange": "08:28.5 – 08:31.3"
+    },
+    {
+      "id": 231,
+      "start": 511.289,
+      "end": 512.309,
+      "duration": 1.02,
+      "text": "when they found what they were",
+      "wordCount": 6,
+      "timestampRange": "08:31.3 – 08:32.3"
+    },
+    {
+      "id": 232,
+      "start": 512.309,
+      "end": 514.25,
+      "duration": 1.941,
+      "text": "looking for. You will never find",
+      "wordCount": 6,
+      "timestampRange": "08:32.3 – 08:34.2"
+    },
+    {
+      "id": 233,
+      "start": 514.25,
+      "end": 515.89,
+      "duration": 1.64,
+      "text": "it on a screen. And that",
+      "wordCount": 6,
+      "timestampRange": "08:34.2 – 08:35.9"
+    },
+    {
+      "id": 234,
+      "start": 515.89,
+      "end": 516.53,
+      "duration": 0.64,
+      "text": "is the trap.",
+      "wordCount": 3,
+      "timestampRange": "08:35.9 – 08:36.5"
+    }
+  ]
+}
