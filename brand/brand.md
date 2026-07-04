@@ -20,6 +20,10 @@ This document codifies the mandatory visual, structural, and behavioral assets f
 * **Titles / Headers:** Bold Sans-Serif (`Montserrat` or `Bebas Neue`)
 * **Body Copy:** Clean, high-readability Serif (`Playfair Display` or premium editorial variants)
 
+### General Channel Keywords (YouTube Tags)
+
+* **Keywords:** `Snow Age Brain, SnowAgeBrain, evolutionary mismatch, evolutionary biology, neuroscience, dopamine, dopamine detox, human psychology, cognitive science, screen addiction, screen time, productivity science, brain chemistry, prehistory history, Pleistocene savanna, hunter gatherer brain, ancient brain modern world, whiteboard animation, stickman science, science animation, self improvement science, why we scroll, focus and attention`
+
 ---
 
 ## II. SYSTEM RULES FOR IMAGE PROMPT INJECTION
