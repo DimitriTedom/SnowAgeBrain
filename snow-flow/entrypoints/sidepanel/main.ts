@@ -202,6 +202,9 @@ startBtn.addEventListener('click', () => {
       text = match[2];
     }
     
+    // Strip optional "prompt: " prefix if present
+    text = text.replace(/^prompt:\s*/i, '');
+    
     return {
       id: idx,
       timestamp,
@@ -256,7 +259,7 @@ clearBtn.addEventListener('click', () => {
 // Listen for storage changes to sync popup layout
 chrome.storage.onChanged.addListener((changes, areaName) => {
   if (areaName === 'local' && changes.snowFlowQueue) {
-    updateUI(changes.snowFlowQueue.newValue);
+    updateUI(changes.snowFlowQueue.newValue as QueueState | null);
   }
 });
 
@@ -279,6 +282,9 @@ function renderPreview(rawText: string) {
       timestamp = match[1];
       text = match[2];
     }
+    
+    // Strip optional "prompt: " prefix if present
+    text = text.replace(/^prompt:\s*/i, '');
     listHTML += `
       <div class="queue-item">
         <span class="item-time">${timestamp}</span>
@@ -304,7 +310,7 @@ promptsInput.addEventListener('input', () => {
 
 // Initial Load
 chrome.storage.local.get('snowFlowQueue', (res) => {
-  const state = res.snowFlowQueue || null;
+  const state = (res.snowFlowQueue as QueueState | undefined) || null;
   updateUI(state);
   // If idle, render whatever is in the textarea as a preview
   if (!state || state.status === 'idle') {

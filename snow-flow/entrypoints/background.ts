@@ -43,6 +43,37 @@ export default defineBackground(() => {
       handleGenerationFailure(message.error, message.promptId);
     }
 
+    if (message.action === 'DEBUGGER_INSERT_TEXT') {
+      const tabId = sender.tab?.id;
+      if (!tabId) {
+        sendResponse({ ok: false, error: 'No tab ID' });
+        return;
+      }
+      debuggerInsertText(tabId, message.text)
+        .then(() => sendResponse({ ok: true }))
+        .catch((err: any) => sendResponse({ ok: false, error: err.message || String(err) }));
+      return true;
+    }
+
+    if (message.action === 'DEBUGGER_CLICK') {
+      const tabId = sender.tab?.id;
+      if (!tabId) {
+        sendResponse({ ok: false, error: 'No tab ID' });
+        return;
+      }
+      debuggerClick(tabId, message.x, message.y)
+        .then(() => sendResponse({ ok: true }))
+        .catch((err: any) => sendResponse({ ok: false, error: err.message || String(err) }));
+      return true;
+    }
+
+    if (message.action === 'DEBUGGER_DETACH') {
+      const tabId = sender.tab?.id;
+      if (tabId) {
+        chrome.debugger.detach({ tabId }).catch(() => {});
+      }
+    }
+
     if (message.type === 'REACT_FIBER_CLICK') {
       const tabId = sender.tab?.id;
       if (!tabId) {
@@ -87,9 +118,20 @@ export default defineBackground(() => {
       item.status = 'generating';
       chrome.storage.local.set({ snowFlowQueue: state });
 
-      // Find Google Flow tab (supports localized paths like /fx/fr/tools/flow)
-      const tabs = await chrome.tabs.query({ url: '*://labs.google/fx/*' });
-      const flowTabs = tabs.filter(t => t.url && t.url.includes('/flow'));
+      // Find Google Flow tab (supports flow.google, subdomains, and localized paths)
+      const tabs = await chrome.tabs.query({
+        url: [
+          '*://labs.google/fx/*',
+          '*://*.labs.google/fx/*',
+          '*://*.google.com/fx/*',
+          '*://flow.google/*',
+          '*://*.flow.google/*'
+        ]
+      });
+      const flowTabs = tabs.filter(t => {
+        if (!t.url) return false;
+        return t.url.includes('/flow') || t.url.includes('flow.google');
+      });
       
       if (flowTabs.length === 0) {
         console.error('Google Flow tab not found! Pausing queue.');
@@ -278,3 +320,32 @@ function reactFiberSubmit(token: string, markerAttr: string) {
 
   return { ok: false, reason: 'neither onSubmit nor onClick found in fiber tree' };
 }
+
+async function attachDebugger(tabId: number) {
+  try {
+    await chrome.debugger.attach({ tabId }, '1.3');
+  } catch (err: any) {
+    if (!err.message || !err.message.includes('already attached')) {
+      throw err;
+    }
+  }
+}
+
+async function debuggerInsertText(tabId: number, text: string) {
+  await attachDebugger(tabId);
+  await chrome.debugger.sendCommand({ tabId }, 'Input.insertText', { text });
+}
+
+async function debuggerClick(tabId: number, x: number, y: number) {
+  await attachDebugger(tabId);
+  await chrome.debugger.sendCommand({ tabId }, 'Input.dispatchMouseEvent', {
+    type: 'mouseMoved', x, y, button: 'none', modifiers: 0
+  });
+  await chrome.debugger.sendCommand({ tabId }, 'Input.dispatchMouseEvent', {
+    type: 'mousePressed', x, y, button: 'left', buttons: 1, clickCount: 1, modifiers: 0
+  });
+  await chrome.debugger.sendCommand({ tabId }, 'Input.dispatchMouseEvent', {
+    type: 'mouseReleased', x, y, button: 'left', buttons: 0, clickCount: 1, modifiers: 0
+  });
+}
+

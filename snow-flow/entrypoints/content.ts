@@ -1,8 +1,8 @@
 export default defineContentScript({
-  matches: ['*://labs.google/*', '*://*.google.com/*'],
+  matches: ['*://labs.google/*', '*://*.google.com/*', '*://flow.google/*', '*://*.flow.google/*'],
   main() {
     // Only run on Google Flow pages
-    if (!window.location.href.includes('/fx/')) return;
+    if (!window.location.href.includes('/fx/') && !window.location.hostname.includes('flow.google')) return;
 
     console.log('Snow Flow Content Script injected & listening');
 
@@ -205,6 +205,26 @@ async function clickViaReactFiber(el: HTMLElement): Promise<{ ok: boolean; metho
 
 // Click button using React Fiber call or mouse event sequence fallback
 async function clickSubmitButton(btn: HTMLElement): Promise<boolean> {
+  const r = btn.getBoundingClientRect();
+  const cx = r.left + r.width / 2;
+  const cy = r.top + r.height / 2;
+
+  try {
+    const res = await chrome.runtime.sendMessage({
+      action: 'DEBUGGER_CLICK',
+      x: cx,
+      y: cy
+    });
+    if (res?.ok) {
+      console.log('Snow Flow: Clicked button successfully via Debugger');
+      return true;
+    } else {
+      console.warn('Snow Flow: Debugger click failed:', res?.error);
+    }
+  } catch (e: any) {
+    console.warn('Snow Flow: Failed to send DEBUGGER_CLICK message:', e.message);
+  }
+
   const fiberResult = await clickViaReactFiber(btn);
   if (fiberResult.ok) {
     console.log(`Snow Flow: Submitted via React fiber (${fiberResult.method})`);
@@ -214,9 +234,6 @@ async function clickSubmitButton(btn: HTMLElement): Promise<boolean> {
 
   // Fallback: Full synthetic pointer/mouse event sequence
   console.log('Snow Flow: Falling back to synthetic mouse clicks...');
-  const r = btn.getBoundingClientRect();
-  const cx = r.left + r.width / 2;
-  const cy = r.top + r.height / 2;
   const common = {
     bubbles: true,
     cancelable: true,
@@ -279,54 +296,69 @@ async function runGenerationCycle(prompt: string, promptId: number) {
     // 3. Inject text and trigger React/Lexical/Slate state updates
     inputElement.focus();
     
+    // Clear first
     if (inputElement.tagName === 'TEXTAREA' || inputElement.tagName === 'INPUT') {
       const textarea = inputElement as HTMLTextAreaElement;
-      
-      // Clear first
       textarea.value = '';
       textarea.dispatchEvent(new Event('input', { bubbles: true }));
-      
-      const valueSetter = Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype, 'value')?.set;
-      if (valueSetter) {
-        valueSetter.call(textarea, prompt);
-        textarea.dispatchEvent(new Event('input', { bubbles: true }));
-      } else {
-        textarea.value = prompt;
-        textarea.dispatchEvent(new Event('change', { bubbles: true }));
-      }
     } else {
-      // Contenteditable div (Google Flow textbox)
-      inputElement.focus();
-      
-      // Select all and clear
+      // Contenteditable div: Select all and clear
       const range = document.createRange();
       range.selectNodeContents(inputElement);
       const selection = window.getSelection();
       selection?.removeAllRanges();
       selection?.addRange(range);
       document.execCommand('delete', false, undefined);
-      
-      await sleep(100);
+    }
+    await sleep(200);
 
-      // Attempt 1: Synthetic paste (triggers Slate's input parser directly)
-      dispatchSyntheticPaste(inputElement, prompt);
-      await sleep(200);
+    // Attempt Native Type via Debugger API
+    console.log('Snow Flow: Injecting prompt text via Debugger API...');
+    let injected = false;
+    try {
+      const res = await chrome.runtime.sendMessage({
+        action: 'DEBUGGER_INSERT_TEXT',
+        text: prompt
+      });
+      if (res?.ok) {
+        injected = true;
+      } else {
+        console.warn('Snow Flow: Debugger text injection failed:', res?.error);
+      }
+    } catch (e: any) {
+      console.warn('Snow Flow: Failed to send DEBUGGER_INSERT_TEXT message:', e.message);
+    }
 
-      // Attempt 2: Fallback to execCommand + events if text not registered
-      if (!editorSeemsToContain(inputElement, prompt)) {
-        console.warn('Snow Flow: Synthetic paste failed, falling back to input events...');
-        const beforeInputEvent = new InputEvent('beforeinput', {
-          bubbles: true,
-          cancelable: true,
-          inputType: 'insertText',
-          data: prompt
-        });
-        inputElement.dispatchEvent(beforeInputEvent);
-        
-        document.execCommand('insertText', false, prompt);
-        
-        inputElement.dispatchEvent(new Event('input', { bubbles: true }));
-        inputElement.dispatchEvent(new Event('change', { bubbles: true }));
+    if (!injected) {
+      console.log('Snow Flow: Debugger injection failed, falling back to synthetic inputs...');
+      if (inputElement.tagName === 'TEXTAREA' || inputElement.tagName === 'INPUT') {
+        const textarea = inputElement as HTMLTextAreaElement;
+        const valueSetter = Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype, 'value')?.set;
+        if (valueSetter) {
+          valueSetter.call(textarea, prompt);
+          textarea.dispatchEvent(new Event('input', { bubbles: true }));
+        } else {
+          textarea.value = prompt;
+          textarea.dispatchEvent(new Event('change', { bubbles: true }));
+        }
+      } else {
+        // Contenteditable div (Google Flow textbox) fallback
+        dispatchSyntheticPaste(inputElement, prompt);
+        await sleep(200);
+
+        if (!editorSeemsToContain(inputElement, prompt)) {
+          console.warn('Snow Flow: Synthetic paste failed, falling back to input events...');
+          const beforeInputEvent = new InputEvent('beforeinput', {
+            bubbles: true,
+            cancelable: true,
+            inputType: 'insertText',
+            data: prompt
+          });
+          inputElement.dispatchEvent(beforeInputEvent);
+          document.execCommand('insertText', false, prompt);
+          inputElement.dispatchEvent(new Event('input', { bubbles: true }));
+          inputElement.dispatchEvent(new Event('change', { bubbles: true }));
+        }
       }
     }
 
@@ -367,6 +399,7 @@ async function runGenerationCycle(prompt: string, promptId: number) {
     console.log('Snow Flow: Asset ready. Sending URL to downloader...');
 
     // Report success to background service worker
+    chrome.runtime.sendMessage({ action: 'DEBUGGER_DETACH' });
     chrome.runtime.sendMessage({
       action: 'GENERATION_COMPLETE',
       imageUrl: downloadUrl,
@@ -375,6 +408,7 @@ async function runGenerationCycle(prompt: string, promptId: number) {
 
   } catch (err: any) {
     console.error('Snow Flow Automation Loop Error:', err);
+    chrome.runtime.sendMessage({ action: 'DEBUGGER_DETACH' });
     chrome.runtime.sendMessage({
       action: 'GENERATION_FAILED',
       error: err.message || 'Automation failed',
